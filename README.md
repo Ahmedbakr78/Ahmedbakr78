@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://ahmed-abo-bakr.pages.dev/avatar.jpg" alt="Ahmed Abo Bakr" width="160">
-
 # Ahmed Abo Bakr
 
 ### Big Data Engineer
@@ -10,11 +8,11 @@
 
 Architecting scalable, high-performance, cost-optimized data ecosystems.
 
-Cairo, Egypt
+Cairo, Egypt · [Ahmedbakr@internet.ru](mailto:Ahmedbakr@internet.ru)
 
 <br/>
 
-[**Portfolio**](https://ahmed-abo-bakr.pages.dev/) &nbsp;·&nbsp; [**Home**](https://ahmed-abo-bakr.pages.dev/) &nbsp;·&nbsp; [**Blog**](https://ahmed-abo-bakr.pages.dev/blog) &nbsp;·&nbsp; [**Projects**](https://ahmed-abo-bakr.pages.dev/projects) &nbsp;·&nbsp; [**Resume**](https://ahmed-abo-bakr.pages.dev/resume) &nbsp;·&nbsp; [**Contact**](https://ahmed-abo-bakr.pages.dev/contact)
+[**Portfolio**](https://ahmed-abo-bakr.pages.dev/) &nbsp;·&nbsp; [**Blog**](https://ahmed-abo-bakr.pages.dev/blog) &nbsp;·&nbsp; [**Projects**](https://ahmed-abo-bakr.pages.dev/projects) &nbsp;·&nbsp; [**Resume**](https://ahmed-abo-bakr.pages.dev/resume) &nbsp;·&nbsp; [**Contact**](https://ahmed-abo-bakr.pages.dev/contact)
 
 <br/>
 
@@ -26,9 +24,9 @@ Cairo, Egypt
 
 <br/>
 
-| 26 | 10 | 410 | 6 |
-|:---:|:---:|:---:|:---:|
-| **Certifications** | **Projects** | **Contributions** | **Skill Areas** |
+| 26 | 73 | 10 | 410 | 6 |
+|:---:|:---:|:---:|:---:|:---:|
+| **Certifications** | **Across 8 Domains** | **Projects** | **Contributions** | **Skill Areas** |
 
 </div>
 
@@ -36,7 +34,7 @@ Cairo, Egypt
 
 ## About Me
 
-Big Data Engineer passionate about architecting scalable, high-performance data solutions. Proven expertise in building end-to-end data platforms, real-time streaming pipelines, and enterprise data warehouses using **Spark, Airflow, Python, and Cloud (AWS/Azure)**.
+Big Data Engineer passionate about architecting scalable, high-performance data solutions. Proven expertise in building end-to-end data platforms, real-time streaming pipelines and enterprise data warehouses using **Spark, Airflow, Python and Cloud (AWS/Azure)**.
 
 Track record of:
 
@@ -68,36 +66,139 @@ Track record of:
 ```mermaid
 mindmap
   root((Ahmed Abo Bakr))
+    Top Skills
+      Data Management
+      Data Analysis
+      Big Data
+      Google Analytics
     Big Data
       Spark
       Airflow
       Kafka
       Hadoop
-      Real-time Streaming
+      Streaming
     Cloud
       AWS
       Azure
-      Docker
       Kubernetes
-      Event-Driven
+      EKS and ECS
     AI and ML
       NLP
       LLMs
       LLMOps
-      XGBoost
       Computer Vision
-    Databases
-      SQL Server
-      Oracle PL/SQL
+    Security
       RBAC
-      Encryption
-    Engineering
-      Python
-      Java
-      TypeScript
-      FastAPI
-      React
+      AES-256
+      Inference Control
 ```
+
+---
+
+## Complete Skills Matrix
+
+### Spotlight Skills
+
+`Data Management` `Data Analysis` `Big Data` `Google Analytics`
+
+<details open>
+<summary><b>Big Data & Engineering</b></summary>
+
+<br/>
+
+`Apache Spark` `Apache Airflow` `Kafka` `Kafka Integration` `Hadoop` `ETL/ELT` `Real-time Streaming` `Data Warehousing` `Parallel Programming` `Designing Event-Driven Architectures` `Big Data Associate` `Troubleshooting`
+
+</details>
+
+<details open>
+<summary><b>Cloud & Infrastructure</b></summary>
+
+<br/>
+
+`AWS` `Azure` `Microsoft Azure for AI and Machine Learning` `Docker` `Kubernetes` `Containers on Amazon EKS` `Amazon ECS` `Amazon Aurora MySQL` `Connecting Systems and Machines to AWS` `Practical Data Science with Amazon SageMaker` `Event-Driven Architecture` `Terraform`
+
+</details>
+
+<details open>
+<summary><b>Databases & SQL</b></summary>
+
+<br/>
+
+`SQL Server` `T-SQL` `Oracle PL/SQL` `SQL` `H2 Integration` `RBAC` `Database Security` `AES-256 Encryption` `Multilevel Security` `Inference Control` `Data Integrity` `Query Optimization`
+
+</details>
+
+<details open>
+<summary><b>AI & Machine Learning</b></summary>
+
+<br/>
+
+`Artificial Intelligence and Machine Learning` `AI` `Machine Learning` `Machine Learning Essentials for Business` `NLP` `LLMs` `LLMOps` `Hugging Face` `Statistical Models like BoW and TF-IDF` `Importance of Embeddings for NLP` `Embedding Metrics and Visualization` `Techniques for Static Embeddings` `Foundations of Prompt Engineering` `Managing the Application` `XGBoost` `Computer Vision` `Predictive Modeling` `Regression Analysis` `PCA` `Association Rules` `Automated Machine Learning`
+
+</details>
+
+<details open>
+<summary><b>AI & ML for Healthcare</b></summary>
+
+<br/>
+
+`NLP for Clinical Data` `Predictive Modeling for Disease Progression` `Machine Learning for Healthcare Analytics` `Computer Vision for Motor Symptom Monitoring` `Healthcare Data Mining & Analytics` `Health Informatics Software Development` `Telehealth & Telemedicine Platforms`
+
+</details>
+
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+
+<br/>
+
+`Python` `Java` `JavaScript` `TypeScript` `C#` `ASP.NET` `Spring Boot` `React` `FastAPI` `Node.js` `REST API Integration` `REST API Controller` `SQL` `JavaScript / TS` `Browser Extensions (MV3)`
+
+</details>
+
+<details open>
+<summary><b>Data & Analytics</b></summary>
+
+<br/>
+
+`Data Mining` `EDA` `Exploratory Data Analysis` `Statistical Modeling` `Hypothesis Testing` `Production-Grade Big Data Pipelines` `Data Visualization` `Interactive Dashboards` `Business Models` `Research in Finance` `Account Management`
+
+</details>
+
+<details open>
+<summary><b>Analytics, SEO & Digital Marketing</b></summary>
+
+<br/>
+
+`Google Analytics` `SEO` `Technical SEO Analyst` `Keyword Research` `Digital Marketing` `AI-Powered Performance Ads` `AI-Powered Shopping Ads` `Microsoft Office 365`
+
+</details>
+
+<details open>
+<summary><b>Security & Systems</b></summary>
+
+<br/>
+
+`Information Security` `Information Technology` `Systems Engineering` `Computational Thinking` `5 Security Models` `Role-Based Access Control` `Statistical Attack Mitigation` `Blockchain Scalability and Distributed Systems` `Cryptographic Anonymity` `Smart Contracts`
+
+</details>
+
+<details open>
+<summary><b>Sustainability & UN Programs</b></summary>
+
+<br/>
+
+`Climate Resilience Data Analyst` `Green Finance Data Analyst` `Sustainable IT Analyst` `E-Waste Data` `Green Industrial Policy` `Regulatory Compliance IT Analyst` `Social Impact Technologist` `Sustainable Development Data Analyst` `Digital Program Planning Analyst`
+
+</details>
+
+<details open>
+<summary><b>Professional & Soft Skills</b></summary>
+
+<br/>
+
+`Strategic Communication & Teamwork` `Empathetic Communication` `Self-Directed Learning` `Design Thinking` `Creativity` `Teamwork` `Volunteering` `International Team Leadership` `Technical Writing`
+
+</details>
 
 ---
 
@@ -167,45 +268,6 @@ Six Chromium (MV3) extensions, one design language: free, private, unlimited, 10
 
 ---
 
-## Technical Expertise
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Big Data & Engineering
-
-`Apache Spark` `Airflow` `Kafka` `Hadoop` `ETL/ELT` `Real-time Streaming` `Data Warehousing`
-
-### Cloud & Infrastructure
-
-`AWS` `Azure` `Docker` `Kubernetes` `EKS/ECS` `Event-Driven Architecture` `Terraform`
-
-### Databases & SQL
-
-`SQL Server` `T-SQL` `Oracle PL/SQL` `RBAC` `Database Security` `AES-256`
-
-</td>
-<td valign="top" width="50%">
-
-### AI & Machine Learning
-
-`NLP` `LLMs` `LLMOps` `XGBoost` `Computer Vision` `Hugging Face` `Predictive Modeling`
-
-### Languages & Frameworks
-
-`Python` `Java` `JavaScript/TS` `C#` `Spring Boot` `React` `FastAPI` `SQL`
-
-### Data & Analytics
-
-`Data Mining` `EDA` `Regression` `Association Rules` `Statistical Modeling` `PCA`
-
-</td>
-</tr>
-</table>
-
----
-
 ## Experience
 
 ### Executive Chairman & Founder — Independent
@@ -243,6 +305,18 @@ A decentralized, federated workspace platform built from the ground up with its 
 - Streamlined statistical hypothesis testing across 30 variable combinations
 - Orchestrated a 6-stage data pipeline reducing processing time to under 2 minutes
 
+### Training & Programs
+
+| Program | Detail |
+|---|---|
+| Google Skillshop | Analytics and AI certifications |
+| JPMorganChase Software Engineering Simulation | Spring, Kafka, REST (Forage) |
+| Huawei Big Data Associate | National Telecommunication Institute (NTI) |
+| NTI MEAN-Stack Training | 100% score |
+| MCIT AI Advanced | Fast Lane in partnership with Microsoft |
+| Route Academy — AI & ML Track | Top Performer |
+| Oracle AI for You | Badge |
+
 ---
 
 ## Education
@@ -257,36 +331,45 @@ Comprehensive computer science education covering data structures, algorithms, d
 
 ## Certifications
 
-26 certifications from leading institutions — Microsoft, Google, IBM, University of Oxford, University of Sydney, University of Michigan, Duke University, AWS, UNICEF, Udacity and Saylor University.
+26 certifications from leading institutions — Microsoft, Google, IBM, University of Oxford, University of Sydney, University of Michigan, Duke University, AWS, UNICEF, Udacity and Saylor University. 73 total across 8 domains.
 
-| Certification | Issuer | Date |
-|---|---|---|
-| AI and Machine Learning Algorithms and Techniques | Microsoft | May 2026 |
-| AI for App Building | Google | Apr 2026 |
-| AI for Data Analysis | Google | Apr 2026 |
-| AI for Research and Insights | Google | Apr 2026 |
-| AI for Brainstorming and Planning | Google | Apr 2026 |
-| AI Fundamentals | Google | Apr 2026 |
-| Python for Data Science, AI & Development | IBM | Apr 2026 |
-| Python Project for Data Engineering | IBM | Apr 2026 |
-| AWS AI Practitioner Challenge | Udacity | Apr 2026 |
-| Software Engineering | Saylor University | May 2026 |
-| Blockchain Scalability and Distributed Systems | University of Sydney | Apr 2026 |
-| Google AI | Google | 2026 |
-| AI Ethics, Responsible Use, and Creativity | University of Michigan | Apr 2026 |
-| Data Management and Analysis | UNICEF | Mar 2026 |
-| AI and Digital Transformation in Government | University of Oxford | Mar 2026 |
+| Certification | Issuer | Date | Credential ID |
+|---|---|---|---|
+| DevOps Essentials | Coursera | Oct 2026 | Credly Badge |
+| Data Analysis and Business Applications | Microsoft | Oct 2026 | 72JPM2VXM9K1 |
+| Decisions, Decisions: Dashboards and Reports | Google | Oct 2026 | DVBC01MW0A31 |
+| MLOps Specialization | Duke University | Sep 2026 | FFI6MAZIV65Z |
+| Microsoft AI & ML Engineering (Professional Certificate) | Microsoft | Sep 2026 | BJQ4SWD8YQK9 |
+| Microsoft Azure for AI and Machine Learning | Microsoft | Aug 2026 | A2GT06ZA9HT1 |
+| Building Intelligent Troubleshooting Agents | Microsoft | Aug 2026 | PWFE4IDXYSK9 |
+| AI and Machine Learning Algorithms and Techniques | Microsoft | May 2026 | 0M7Z3K64OUNF |
+| Software Engineering | Saylor University | May 2026 | 8716016030AA |
+| AI for App Building | Google | Apr 2026 | U8E7368DA8XU |
+| AI for Data Analysis | Google | Apr 2026 | TLVWLHHW2Z9N |
+| AI for Research and Insights | Google | Apr 2026 | RLF4RHVGKJ1J |
+| AI for Brainstorming and Planning | Google | Apr 2026 | IG37T6W6GPQC |
+| AI Fundamentals | Google | Apr 2026 | HFU30XZK1JV7 |
+| Python for Data Science, AI & Development | IBM | Apr 2026 | D4VSBRUIW4VJ |
+| Python Project for Data Engineering | IBM | Apr 2026 | 3KRLRT6X4RAF |
+| AWS AI Practitioner Challenge | Udacity | Apr 2026 | a49190f6-303d-11f1-ba94-e7c940fb3e00 |
+| Blockchain Scalability and Distributed Systems | University of Sydney | Apr 2026 | DRNBXOMTLDO6 |
+| Google AI | Google | 2026 | RYT0XQOE8XL2 |
+| AI Ethics, Responsible Use, and Creativity | University of Michigan | Apr 2026 | VE6A7LOPL0AU |
+| Data Management and Analysis | UNICEF | Mar 2026 | 81OwuZVpOa |
+| AI and Digital Transformation in Government | University of Oxford | Mar 2026 | ca1ewxyi_1773548025382 |
 
-*Additional certifications span MLOps (Duke University), Microsoft AI & ML Engineering, Azure for AI and Machine Learning, DevOps Essentials and more.*
+*+4 more certifications across AI, Cloud, Data Engineering and Security.*
 
 ---
 
 ## Achievements
 
 - **Top Performer** — AI & ML Track, Route Academy
-- **73 certifications** across 8 domains — Oxford, Google, AWS, UN, IBM, Huawei
+- **73 certifications** across 8 domains — Oxford, Google, AWS, UN, IBM and Huawei
 - **34 GitHub projects** spanning Big Data, NLP, ML, Security and Full-Stack
 - **Led international teams** across Egypt, Germany and Russia
+- **LinkedIn:** 8,000+ followers · 500+ connections
+- **410 contributions** on GitHub in the last year
 
 ---
 
@@ -297,6 +380,15 @@ Comprehensive computer science education covering data structures, algorithms, d
 | Contributions in the last year | 410 |
 | Pull Requests | 93% |
 | Code Review | 7% |
+
+---
+
+## Languages
+
+| Language | Proficiency |
+|---|---|
+| Arabic | Native |
+| English | Professional |
 
 ---
 
