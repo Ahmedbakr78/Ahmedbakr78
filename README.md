@@ -1,190 +1,319 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c8dff,50:8A2BE2,100:14b8a6&height=220&section=header&text=Ahmed%20ABOBAKR&fontAlign=87&fontAlignY=38&animation=fadeIn" alt="header">
+<img src="https://ahmed-abo-bakr.pages.dev/avatar.jpg" alt="Ahmed Abo Bakr" width="160">
 
-# Ahmed ABOBAKR
+# Ahmed Abo Bakr
 
-### Full-Stack Developer · Browser-Extension Craftsman · Privacy-First Builder
+### Big Data Engineer
+
+**ETL/ELT · Data Warehousing · Real-time Streaming · Spark · Airflow · SQL · Cloud (AWS / Azure)**
+
+Architecting scalable, high-performance, cost-optimized data ecosystems.
+
+Cairo, Egypt
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20ABOBAKR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abo-bakr-1b2466288/)
+[**Portfolio**](https://ahmed-abo-bakr.pages.dev/) &nbsp;·&nbsp; [**Home**](https://ahmed-abo-bakr.pages.dev/) &nbsp;·&nbsp; [**Blog**](https://ahmed-abo-bakr.pages.dev/blog) &nbsp;·&nbsp; [**Projects**](https://ahmed-abo-bakr.pages.dev/projects) &nbsp;·&nbsp; [**Resume**](https://ahmed-abo-bakr.pages.dev/resume) &nbsp;·&nbsp; [**Contact**](https://ahmed-abo-bakr.pages.dev/contact)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahmed--abo--bakr.pages.dev-4c8dff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmed-abo-bakr.pages.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--abo--bakr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-abo-bakr)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmedbakr78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmedbakr78)
-[![Follow](https://img.shields.io/github/followers/Ahmedbakr78?style=for-the-badge&logo=github&label=Follow&color=4c8dff)](https://github.com/Ahmedbakr78)
-[![Profile Views](https://img.shields.io/badge/Views-counter--dynamic?style=for-the-badge&label=Profile%20Views&color=8A2BE2)](https://github.com/Ahmedbakr78)
+[![Email](https://img.shields.io/badge/Email-Ahmedbakr%40internet.ru-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:Ahmedbakr@internet.ru)
+[![Follow](https://img.shields.io/github/followers/Ahmedbakr78?style=for-the-badge&logo=github&label=Follow&color=8A2BE2)](https://github.com/Ahmedbakr78)
 
 <br/>
 
-Building the **Heros** browser-extension suite and the **Nevai** private ecosystem.
-Ships fast, documents deep, ships privacy-first. 100% local, free & unlimited — always.
+| 26 | 10 | 410 | 6 |
+|:---:|:---:|:---:|:---:|
+| **Certifications** | **Projects** | **Contributions** | **Skill Areas** |
 
 </div>
 
 ---
 
-## 🧭 About
+## About Me
 
-I build software that stays on **your machine**. No clouds you don't control, no accounts you don't own, no telemetry you didn't ask for. My work spans two connected worlds:
+Big Data Engineer passionate about architecting scalable, high-performance data solutions. Proven expertise in building end-to-end data platforms, real-time streaming pipelines, and enterprise data warehouses using **Spark, Airflow, Python, and Cloud (AWS/Azure)**.
 
-- **Heros** — a family of Chromium (MV3) browser extensions that turn the sidebar into a studio: PDF, Markdown, Jupyter, Todo, Music remote, Web clipper. Every one is zero-dependency vanilla JS, 100% local, MIT, free forever.
-- **Nevai** — a broader private ecosystem: encrypted office suite, no-code database, AI agent platform, collaborative tools, and a 25-bridge messaging federation over Matrix.
+Track record of:
 
-I care about **craft**: perfect Markdown, pixel-honest design systems, architecture diagrams everywhere, changelogs that actually explain *why*, and READMEs long enough to be a manual.
+- Leading international teams across **Egypt, Germany and Russia**
+- Designing secure data environments with RBAC, AES-256 encryption and inference control
+- Delivering systems that power data-driven insights
+- **Top Performer — AI & ML Track, Route Academy**
+- **73 certifications across 8 domains** including Oxford, Google, AWS, UN, IBM and Huawei
+
+<div align="center">
+
+[Email](mailto:Ahmedbakr@internet.ru) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/ahmed-abo-bakr) &nbsp;·&nbsp; [GitHub](https://github.com/Ahmedbakr78) &nbsp;·&nbsp; [Portfolio](https://ahmed-abo-bakr.pages.dev/)
+
+</div>
+
+---
+
+## What I Do
+
+| Discipline | Description | Core Stack |
+|---|---|---|
+| **Big Data Engineering** | Design and implement scalable data pipelines, real-time streaming solutions and enterprise data warehouses | Spark · Airflow · Kafka · ETL/ELT · Data Warehousing |
+| **Cloud Architecture** | Build secure, scalable cloud infrastructure with containerization, microservices and event-driven architectures | AWS · Azure · Docker · Kubernetes · Terraform |
+| **AI & Machine Learning** | Develop intelligent systems using NLP, LLMs, computer vision and predictive modeling | NLP · LLMs · LLMOps · XGBoost · Hugging Face |
+| **Database Solutions** | Design and optimize relational and NoSQL databases with advanced security, RBAC, encryption and performance tuning | SQL Server · Oracle PL/SQL · Database Security · RBAC |
+| **Full-Stack Development** | Build modern web applications with seamless frontend-backend integration | React · Python · Java · TypeScript · FastAPI · Spring Boot |
+| **Data Analytics & Visualization** | Transform raw data into actionable insights through statistical analysis, EDA and interactive dashboards | Statistical Modeling · EDA · Regression · Visualization |
 
 ```mermaid
 mindmap
-  root((Ahmed))
-    Heros
-      PDF Studio
-      Markdown Studio
-      NoteBook .ipynb
-      Todo Panel
-      Music Player
-      markClipper
-    Nevai
-      Office Suite
-      No-code DB
-      AI Agents
-      Encrypted Vault
-      25 Messaging Bridges
-    Values
-      Privacy first
-      Zero dependencies
-      100% local
-      Perfect docs
-      MIT forever
+  root((Ahmed Abo Bakr))
+    Big Data
+      Spark
+      Airflow
+      Kafka
+      Hadoop
+      Real-time Streaming
+    Cloud
+      AWS
+      Azure
+      Docker
+      Kubernetes
+      Event-Driven
+    AI and ML
+      NLP
+      LLMs
+      LLMOps
+      XGBoost
+      Computer Vision
+    Databases
+      SQL Server
+      Oracle PL/SQL
+      RBAC
+      Encryption
+    Engineering
+      Python
+      Java
+      TypeScript
+      FastAPI
+      React
 ```
 
 ---
 
-## 🏆 Featured — The Heros Suite
+## Featured Projects
 
-Six browser extensions, one design language, one promise: **free, private, unlimited.**
-
-| | Project | What it does | |
-|---|---|---|---|
-| 📕 | [**Heros PDF**](https://github.com/Ahmedbakr78/Heros_PDF) | PDF viewer + editor studio — annotate, merge, split, search, watermark. pdf.js + pdf-lib + qpdf-wasm | [🌐](https://ahmedbakr78.github.io/Heros_PDF/) |
-| 📗 | [**Heros Markdown**](https://github.com/Ahmedbakr78/heros-markdown) | Markdown studio — offline KaTeX math, every Mermaid diagram, RTL, 110 study tools | [🌐](https://ahmedbakr78.github.io/heros-markdown/) |
-| 📘 | [**Heros NoteBook**](https://github.com/Ahmedbakr78/Heros_Jupter) | `.ipynb` viewer + **real Python runner** via Pyodide WASM. Builder studio, variable inspector | [🌐](https://ahmedbakr78.github.io/Heros_Jupter/) |
-| 📙 | [**Heros Todo**](https://github.com/Ahmedbakr78/Heros_Todo) | Markdown + PDF + LaTeX panel studio — workspaces, real clickable tasks, flashcards, pomodoro | [🌐](https://ahmedbakr78.github.io/Heros_Todo/) |
-| 🎵 | [**Heros Player**](https://github.com/Ahmedbakr78/Heros_Music_Player) | Full remote for YouTube Music / YouTube / Spotify tabs — seek, volume, queue, PiP | [🌐](https://ahmedbakr78.github.io/Heros_Music_Player/) |
-| ✂️ | [**markClipper**](https://github.com/Ahmedbakr78/Heros_Note) | Web clipper + **Photo Lab** — articles, selections, 250-photo galleries → perfect Markdown | [🌐](https://ahmedbakr78.github.io/Heros_Note/) |
-
-```mermaid
-graph LR
-    subgraph Heros["Heros Extension Suite"]
-        PDF[📕 PDF Studio]
-        MD[📗 Markdown Studio]
-        NB[📘 NoteBook]
-        TD[📙 Todo]
-        MP[🎵 Player]
-        MC[✂️ markClipper]
-    end
-    DESIGN[🎨 Shared Heros Design System] --> PDF & MD & NB & TD & MP & MC
-    PRIVACY[🔒 100% Local · Zero Deps · MIT] --> PDF & MD & NB & TD & MP & MC
-```
-
-<details>
-<summary><b>Other public work (click to expand)</b></summary>
-
-| Project | What it is |
-|---|---|
-| [**TourMate**](https://github.com/Ahmedbakr78/Tour) | Full MEAN-stack smart tourism platform — Angular 17, Express, MongoDB, JWT auth, live tracking, Leaflet maps, i18n EN/AR + RTL |
-| [**Web-to-Warehouse Pipeline**](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline) | DEPI capstone: 35 sources → Kimball warehouse (Postgres/MySQL) → Airflow → FastAPI (216 endpoints) → React dashboard |
-
-</details>
-
----
-
-## 🛠️ Tech I Build With
+| Project | Description | Stack |
+|---|---|---|
+| [**Production-Grade Big Data Pipeline**](https://github.com/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency) | End-to-end big data processing pipeline with distributed computing, fault tolerance, data quality checks and production monitoring | Shell · Spark · ETL |
+| [**MIZAN — Egyptian Arabic Legal Assistant**](https://ahmed-abo-bakr.pages.dev/projects) | NLP system for Egyptian Arabic legal documents using Retrieval-Augmented Generation (RAG) with a Gradio interface | Python · NLP · RAG · AI |
+| [**Focus Search Engine**](https://github.com/Ahmedbakr78/5-A-Nevai-Search-Engine) | Privacy-focused AI-powered search engine with a Chrome extension, REST API and advanced ranking algorithms | Python · JavaScript · REST · Chrome |
+| [**Spotify Trends Visualization**](https://github.com/Ahmedbakr78/data-visualization-SpotifyTrends) | Data engineering for music streaming analytics: Spotify API, ETL pipeline, warehousing and interactive dashboards | Python · ETL · Visualization |
+| [**GitHub Repository Mining**](https://github.com/Ahmedbakr78/GitHub-Repository-Mining--Advanced-Data-Mining-Project) | Automated data-mining pipeline extracting insights from repositories with parallel processing at scale | Python · Data Mining · Analytics |
+| [**Student Management System**](https://github.com/Ahmedbakr78) | AI-powered academic platform with FastAPI backend, React frontend and predictive analytics | Python · FastAPI · React · AI |
+| [**Blockchain Voting System**](https://github.com/Ahmedbakr78) | Decentralized voting with cryptographic anonymity and smart-contract-based tallying | Python · Blockchain · Security |
+| [**Automated X-Ray Fracture Reporting**](https://github.com/Ahmedbakr78) | Computer-vision system detecting and classifying bone fractures from X-ray images with automated reporting | Python · Computer Vision · Healthcare |
+| [**Movie Analytics Dashboard**](https://github.com/Ahmedbakr78) | Film-industry analytics with EDA, trend visualization, statistical modeling and box-office prediction | Python · Jupyter · Statistics |
+| [**University Exam Management System**](https://github.com/Ahmedbakr78) | Enterprise Oracle database solution for exam scheduling, enrollment, grading and reporting | Oracle PL/SQL · Database |
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
-![Pyodide](https://img.shields.io/badge/Pyodide-3776AB?style=flat&logo=python&logoColor=FFD43B)
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=webassembly&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Matrix](https://img.shields.io/badge/Matrix-0DBDB8?style=flat&logo=matrix&logoColor=white)
+[View all projects on the portfolio](https://ahmed-abo-bakr.pages.dev/projects) &nbsp;·&nbsp; [View all repositories on GitHub](https://github.com/Ahmedbakr78?tab=repositories)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## Open-Source Work — The Nevai Ecosystem
+
+Founder and builder of **NEVAI**, a decentralized, federated workspace platform built from the ground up with its own open protocol, identity layer and governance system. The ecosystem ships a 25-bridge messaging federation over Matrix, an encrypted office suite, a no-code database, AI agent tooling and a privacy-first browser suite.
+
+| Area | What was built |
+|---|---|
+| **Privacy-first search** | AI-powered search engine that runs entirely in the browser — no data leaves the device |
+| **Sovereign office suite** | 100% self-hosted productivity tools — docs, sheets, slides, forms, kanban, code, whiteboards |
+| **Federated architecture** | Data lives where users decide — no single central authority |
+| **Decentralized identity** | One identity across the whole federation, no central authority |
+| **Open SDK** | Build on top of NEVAI instead of being locked inside it |
+| **AI agent layer** | Intelligence built directly into the protocol |
+| **Messaging federation** | 25 platform bridges (Matrix C-S API, media and formatting relay, presence and read-state sync) |
+
+```mermaid
+graph TB
+    subgraph NEVAI["NEVAI Federation"]
+        SEARCH["Privacy-First Search"]
+        OFFICE["Sovereign Office Suite"]
+        IDENT["Decentralized Identity"]
+        SDK["Open SDK"]
+        AI["AI Agent Layer"]
+        BRIDGES["25 Messaging Bridges"]
+    end
+    PROTOCOL["Open Protocol + Governance"] --> SEARCH & OFFICE & IDENT & SDK & AI & BRIDGES
+    PRIVACY["Data stays where users decide"] --> PROTOCOL
+```
+
+### Browser Suite
+
+Six Chromium (MV3) extensions, one design language: free, private, unlimited, 100% local.
+
+| Project | Description |
+|---|---|
+| [**Heros PDF**](https://github.com/Ahmedbakr78/Heros_PDF) | PDF viewer and editor studio — annotate, merge, split, search, watermark |
+| [**Heros Markdown**](https://github.com/Ahmedbakr78/heros-markdown) | Markdown studio — offline KaTeX math, every Mermaid diagram, RTL support |
+| [**Heros NoteBook**](https://github.com/Ahmedbakr78/Heros_Jupter) | `.ipynb` viewer with a real Python runner via Pyodide WebAssembly |
+| [**Heros Todo**](https://github.com/Ahmedbakr78/Heros_Todo) | Markdown, PDF and LaTeX panel studio with workspaces and clickable tasks |
+| [**Heros Player**](https://github.com/Ahmedbakr78/Heros_Music_Player) | Remote control for YouTube Music, YouTube and Spotify tabs |
+| [**markClipper**](https://github.com/Ahmedbakr78/Heros_Note) | Web clipper and Photo Lab — articles, selections and galleries to Markdown |
+
+---
+
+## Technical Expertise
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### Big Data & Engineering
+
+`Apache Spark` `Airflow` `Kafka` `Hadoop` `ETL/ELT` `Real-time Streaming` `Data Warehousing`
+
+### Cloud & Infrastructure
+
+`AWS` `Azure` `Docker` `Kubernetes` `EKS/ECS` `Event-Driven Architecture` `Terraform`
+
+### Databases & SQL
+
+`SQL Server` `T-SQL` `Oracle PL/SQL` `RBAC` `Database Security` `AES-256`
+
+</td>
+<td valign="top" width="50%">
+
+### AI & Machine Learning
+
+`NLP` `LLMs` `LLMOps` `XGBoost` `Computer Vision` `Hugging Face` `Predictive Modeling`
+
+### Languages & Frameworks
+
+`Python` `Java` `JavaScript/TS` `C#` `Spring Boot` `React` `FastAPI` `SQL`
+
+### Data & Analytics
+
+`Data Mining` `EDA` `Regression` `Association Rules` `Statistical Modeling` `PCA`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Experience
+
+### Executive Chairman & Founder — Independent
+
+**Jan 2026 – Present**
+
+A decentralized, federated workspace platform built from the ground up with its own open protocol, identity layer and governance system.
+
+- Built a privacy-first, AI-powered search engine running entirely in the browser with no data leaving the device
+- Developed a sovereign office suite offering 100% self-hosted productivity tools
+- Implemented federated architecture — data lives where users decide
+- Created decentralized identity — one identity, no central authority
+- Designed an open SDK — build on top of NEVAI, not locked inside it
+- Integrated an AI agent layer — intelligence built into the protocol
+- Delivered a full business workspace — docs, communication, tasks, search, all native
+
+### Security Lead — Secure Student Records Management System
+
+**Jan 2025 – Mar 2025** — Multi-layered database security system
+
+- Developed a multi-layered database security system integrating 5 security models
+- Established Role-Based Access Control reducing unauthorized access attempts by 95%
+- Enforced multilevel security models preventing unauthorized data access
+- Integrated AES-256 encryption for sensitive data protection
+- Programmed inference control mechanisms to thwart statistical attacks
+
+### Project Lead Developer — Five-A Analytics
+
+**Oct 2024 – Dec 2024** — Automated machine learning platform
+
+- Architected an automated ML platform processing 50,000+ data rows
+- Configured 8 regression algorithms achieving 92% R-squared accuracy
+- Pioneered an AI-powered natural language query module for quick analytics
+- Constructed interactive data visualization dashboards generating 12 chart types
+- Streamlined statistical hypothesis testing across 30 variable combinations
+- Orchestrated a 6-stage data pipeline reducing processing time to under 2 minutes
+
+---
+
+## Education
+
+### Helwan National University
+
+**Computer Science** — GPA 3.0
+
+Comprehensive computer science education covering data structures, algorithms, database systems, software engineering, artificial intelligence and distributed systems.
+
+---
+
+## Certifications
+
+26 certifications from leading institutions — Microsoft, Google, IBM, University of Oxford, University of Sydney, University of Michigan, Duke University, AWS, UNICEF, Udacity and Saylor University.
+
+| Certification | Issuer | Date |
+|---|---|---|
+| AI and Machine Learning Algorithms and Techniques | Microsoft | May 2026 |
+| AI for App Building | Google | Apr 2026 |
+| AI for Data Analysis | Google | Apr 2026 |
+| AI for Research and Insights | Google | Apr 2026 |
+| AI for Brainstorming and Planning | Google | Apr 2026 |
+| AI Fundamentals | Google | Apr 2026 |
+| Python for Data Science, AI & Development | IBM | Apr 2026 |
+| Python Project for Data Engineering | IBM | Apr 2026 |
+| AWS AI Practitioner Challenge | Udacity | Apr 2026 |
+| Software Engineering | Saylor University | May 2026 |
+| Blockchain Scalability and Distributed Systems | University of Sydney | Apr 2026 |
+| Google AI | Google | 2026 |
+| AI Ethics, Responsible Use, and Creativity | University of Michigan | Apr 2026 |
+| Data Management and Analysis | UNICEF | Mar 2026 |
+| AI and Digital Transformation in Government | University of Oxford | Mar 2026 |
+
+*Additional certifications span MLOps (Duke University), Microsoft AI & ML Engineering, Azure for AI and Machine Learning, DevOps Essentials and more.*
+
+---
+
+## Achievements
+
+- **Top Performer** — AI & ML Track, Route Academy
+- **73 certifications** across 8 domains — Oxford, Google, AWS, UN, IBM, Huawei
+- **34 GitHub projects** spanning Big Data, NLP, ML, Security and Full-Stack
+- **Led international teams** across Egypt, Germany and Russia
+
+---
+
+## GitHub Activity
+
+| Metric | Value |
+|---|---|
+| Contributions in the last year | 410 |
+| Pull Requests | 93% |
+| Code Review | 7% |
+
+---
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmedbakr78&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=4c8dff&icon_color=8A2BE2&text_color=b0b9c6&ring_color=14b8a6" alt="stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbakr78&layout=compact&theme=transparent&hide_border=true&title_color=4c8dff&text_color=b0b9c6&langs_count=8" alt="top languages">
+## Let's Work Together
+
+Looking for expertise in **Big Data Engineering**, **Cloud Architecture** or **AI solutions**? Let's discuss how we can build something amazing together.
+
+[![Email Me](https://img.shields.io/badge/Send%20an%20Email-Ahmedbakr%40internet.ru-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:Ahmedbakr@internet.ru)
+[![Contact Form](https://img.shields.io/badge/Contact%20Form-Portfolio-4c8dff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmed-abo-bakr.pages.dev/contact)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-abo-bakr)
 
 <br/>
 
-<a href="https://gitstreak.com/profile/Ahmedbakr78" target="_blank">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedbakr78&theme=transparent&hide_border=true&background=00000000&stroke=4c8dff&ring=8A2BE2&fire=14b8a6&currStreakNum=b0b9c6&sideNums=b0b9c6&currStreakLabel=4c8dff&sideLabels=b0b9c6&dates=79839a">
-    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedbakr78&hide_border=true">
-  </picture>
-</a>
+[**Home**](https://ahmed-abo-bakr.pages.dev/) &nbsp;·&nbsp; [**Blog**](https://ahmed-abo-bakr.pages.dev/blog) &nbsp;·&nbsp; [**Projects**](https://ahmed-abo-bakr.pages.dev/projects) &nbsp;·&nbsp; [**Resume**](https://ahmed-abo-bakr.pages.dev/resume) &nbsp;·&nbsp; [**Contact**](https://ahmed-abo-bakr.pages.dev/contact)
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmedbakr78&theme=transparent&hide_border=true&color=4c8dff&bg_color=00000000&point=8A2BE2&area=true&area_color=14b8a6" alt="activity graph" width="100%">
-
-</div>
-
----
-
-## 🗺️ Roadmap
-
-```mermaid
-timeline
-    title Ahmed's Build Journey
-    section Heros Suite
-        v1.0 Wave : PDF + Markdown studios
-        v2.0 Wave : Todo + Player + NoteBook + markClipper
-        Next : Store publishing · Firefox MV3 port
-    section Nevai Ecosystem
-        Core : Office · DB · AI · Vault
-        Bridges : 25 messaging platforms over Matrix
-        Next : Federation hardening
-    section Always
-        Privacy : 100% local, zero telemetry
-        Docs : Diagrams, changelogs, manuals
-        Free : MIT, unlimited, forever
-```
-
----
-
-## 💬 Principles I Build By
-
-- 🔒 **Privacy is the default** — if data can leave the machine, it must be an explicit, visible choice.
-- 📦 **Zero dependencies when possible** — what you load is what runs; auditable, fast, unbreakable by a supply chain.
-- 📖 **Docs are a feature** — architecture diagrams, sequence flows, 30-question FAQs, full changelogs.
-- 🎨 **Design is not decoration** — a unified design system across the whole suite.
-- ♾️ **Free & unlimited forever** — MIT, no quotas, no accounts, no upsells.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:8A2BE2,100:4c8dff&height=140&section=footer" alt="footer">
-
-### Thanks for visiting — let's build something private and fast.
-
-[![Star your favorites](https://img.shields.io/badge/Star%20the%20Heros%20suite-⭐-gold?style=for-the-badge)](https://github.com/Ahmedbakr78?tab=stars)
-[![Hire on LinkedIn](https://img.shields.io/badge/Let's%20work%20together-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abo-bakr-1b2466288/)
-
-<sub>MIT licensed · 100% local · free forever · built by Ahmed ABOBAKR</sub>
+<sub>2026 Ahmed Abo Bakr. All rights reserved.</sub>
 
 </div>
