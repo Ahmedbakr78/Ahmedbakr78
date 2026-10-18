@@ -13,7 +13,73 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Build activity feed
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          MAX_LINES: 8
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api "/users/Ahmedbakr78/events/public?per_page=100" > /tmp/events.json
+          python3 - <<'PY'
+          import json
+          import pathlib
+          import re
+
+          try:
+              events = json.load(open("/tmp/events.json"))
+          except Exception:
+              events = []
+
+          lines = []
+          for e in events:
+              try:
+                  t = e.get("type", "")
+                  repo = e.get("repo", {}).get("name", "")
+                  if not repo:
+                      continue
+                  rurl = "https://github.com/" + repo
+                  payload = e.get("payload", {}) or {}
+                  if t == "PushEvent" and payload.get("commits"):
+                      n = len(payload["commits"])
+                      lines.append("- Pushed %d commit%s to [%s](%s)" % (n, "s" if n > 1 else "", repo, rurl))
+                  elif t == "ReleaseEvent":
+                      rel = payload.get("release", {}) or {}
+                      if rel.get("tag_name"):
+                          lines.append("- Published release [%s](%s) in [%s](%s)" % (rel.get("name") or rel["tag_name"], rel.get("html_url", rurl), repo, rurl))
+                  elif t == "CreateEvent":
+                      ref_type = payload.get("ref_type", "")
+                      ref = payload.get("ref", "")
+                      if ref_type == "tag" and ref:
+                          lines.append("- Created tag `%s` in [%s](%s)" % (ref, repo, rurl))
+                      elif ref_type == "repository":
+                          lines.append("- Created repository [%s](%s)" % (repo, rurl))
+                  elif t == "PullRequestEvent":
+                      pr = payload.get("pull_request", {}) or {}
+                      action = payload.get("action", "updated")
+                      if pr.get("title"):
+                          lines.append("- %s pull request [%s](%s) in [%s](%s)" % (action.capitalize(), pr["title"], pr.get("html_url", rurl), repo, rurl))
+                  elif t == "IssuesEvent":
+                      issue = payload.get("issue", {}) or {}
+                      action = payload.get("action", "updated")
+                      if issue.get("title"):
+                          lines.append("- %s issue [%s](%s) in [%s](%s)" % (action.capitalize(), issue["title"], issue.get("html_url", rurl), repo, rurl))
+                  elif t == "ForkEvent":
+                      lines.append("- Forked [%s](%s)" % (repo, rurl))
+              except Exception:
+                  continue
+              if len(lines) >= 8:
+                  break
+
+          block = "\n".join(lines) if lines else "- No public activity yet."
+          p = pathlib.Path("README.md")
+          text = p.read_text()
+          pattern = r"(?s)(<!--START_SECTION:activity-->).*?(<!--END_SECTION:activity-->)"
+          if not re.search(pattern, text):
+              raise SystemExit("activity markers not found")
+          p.write_text(re.sub(pattern, lambda m: m.group(1) + "\n" + block + "\n" + m.group(2), text))
+          PY
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "chore: update recent activity"
+          git push
