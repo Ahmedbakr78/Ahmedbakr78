@@ -1,8 +1,8 @@
 <div align="center">
 
-# Ahmed Abo Bakr
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C8DFF,25:8A2BE2,50:14B8A6,75:FF6F00,100:4C8DFF&height=200&section=header&text=Ahmed%20Abo%20Bakr&desc=Big%20Data%20Engineer&descAlign=50&descAlignY=62&fontSize=50&fontAlign=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&descSize=18" alt="header">
 
-### Big Data Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=4C8DFF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Big+Data+Engineer;ETL%2FELT+%C2%B7+Data+Warehousing+%C2%B7+Real-time+Streaming;Apache+Spark+%C2%B7+Airflow+%C2%B7+Kafka+%C2%B7+Hadoop;Cloud+Architect+AWS+%2F+Azure;Founder+of+NEVAI;Creator+of+the+Heros+Browser+Suite" alt="Typing SVG">
 
 **ETL/ELT · Data Warehousing · Real-time Streaming · Spark · Airflow · SQL · Cloud (AWS / Azure)**
 
@@ -21,12 +21,13 @@ Cairo, Egypt · [Ahmedbakr@internet.ru](mailto:Ahmedbakr@internet.ru)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmedbakr78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmedbakr78)
 [![Email](https://img.shields.io/badge/Email-Ahmedbakr%40internet.ru-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:Ahmedbakr@internet.ru)
 [![Follow](https://img.shields.io/github/followers/Ahmedbakr78?style=for-the-badge&logo=github&label=Follow&color=8A2BE2)](https://github.com/Ahmedbakr78)
+[![Visitors](https://komarev.com/ghpvc/?username=Ahmedbakr78&style=for-the-badge&color=4c8dff&label=Profile+Visitors)](https://github.com/Ahmedbakr78)
 
 <br/>
 
-| 26 | 73 | 22 | 410 | 8 |
-|:---:|:---:|:---:|:---:|:---:|
-| **Certifications** | **Across 8 Domains** | **Public Repositories** | **Contributions** | **Skill Areas** |
+| 26 | 73 | 22 | 410 | 8 | 25 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Certifications** | **Across 8 Domains** | **Public Repositories** | **Contributions** | **Skill Areas** | **Matrix Bridges** |
 
 </div>
 
@@ -49,6 +50,89 @@ Track record of:
 [Email](mailto:Ahmedbakr@internet.ru) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/ahmed-abo-bakr) &nbsp;·&nbsp; [GitHub](https://github.com/Ahmedbakr78) &nbsp;·&nbsp; [Portfolio](https://ahmed-abo-bakr.pages.dev/)
 
 </div>
+
+---
+
+## Tech Arsenal
+
+### Big Data and Engineering
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL%20%2F%20ELT-8A2BE2?style=for-the-badge)
+![Streaming](https://img.shields.io/badge/Real--time%20Streaming-14B8A6?style=for-the-badge)
+![Warehousing](https://img.shields.io/badge/Data%20Warehousing-4C8DFF?style=for-the-badge)
+
+### Cloud and Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Databases and SQL
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC%20%2B%20AES--256-critical?style=for-the-badge)
+
+### AI and Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
+![LLMOps](https://img.shields.io/badge/LLMOps-14B8A6?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Languages and Frameworks
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-4C8DFF?style=for-the-badge)
+
+### Security and Systems
+
+![Security](https://img.shields.io/badge/Information%20Security-critical?style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-8A2BE2?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## What I Do
+
+| Discipline | Description | Core Stack |
+|---|---|---|
+| **Big Data Engineering** | Design and implement scalable data pipelines, real-time streaming solutions and enterprise data warehouses | Spark · Airflow · Kafka · ETL/ELT · Data Warehousing |
+| **Cloud Architecture** | Build secure, scalable cloud infrastructure with containerization, microservices and event-driven architectures | AWS · Azure · Docker · Kubernetes · Terraform |
+| **AI & Machine Learning** | Develop intelligent systems using NLP, LLMs, computer vision and predictive modeling | NLP · LLMs · LLMOps · XGBoost · Hugging Face |
+| **Database Solutions** | Design and optimize relational and NoSQL databases with advanced security, RBAC, encryption and performance tuning | SQL Server · Oracle PL/SQL · Database Security · RBAC |
+| **Full-Stack Development** | Build modern web applications with seamless frontend-backend integration | React · Python · Java · TypeScript · FastAPI · Spring Boot |
+| **Data Analytics & Visualization** | Transform raw data into actionable insights through statistical analysis, EDA and interactive dashboards | Statistical Modeling · EDA · Regression · Visualization |
 
 ---
 
@@ -101,13 +185,124 @@ graph TB
     ROOT --> BD & ML & FS & SEC & DB & HERO
 ```
 
+### Portfolio Distribution by Domain
+
+```mermaid
+pie showData title Public Repository Portfolio by Domain
+    "Heros Browser Suite" : 6
+    "AI and Machine Learning" : 6
+    "Big Data and Data Engineering" : 5
+    "Full-Stack Platforms" : 2
+    "Security and Blockchain" : 2
+    "Databases" : 1
+```
+
+### Skill Focus Map
+
+```mermaid
+quadrantChart
+    title Competency Quadrant
+    x-axis Foundations --> Advanced
+    y-axis Infrastructure --> Intelligence
+    quadrant-1 AI Systems
+    quadrant-2 Data Platforms
+    quadrant-3 Core Foundations
+    quadrant-4 Cloud Operations
+    "Python": [0.95, 0.62]
+    "Spark and Airflow": [0.9, 0.72]
+    "Kafka Streaming": [0.85, 0.68]
+    "SQL and Warehousing": [0.92, 0.55]
+    "LLMs and NLP": [0.82, 0.9]
+    "Computer Vision": [0.75, 0.85]
+    "AWS and Azure": [0.88, 0.38]
+    "Kubernetes": [0.8, 0.32]
+    "React and FastAPI": [0.78, 0.6]
+    "Security and RBAC": [0.7, 0.45]
+```
+
+### Career Journey
+
+```mermaid
+journey
+    title Path to Big Data Engineering
+    section Foundations
+      Computer Science - Helwan National University: 4: Ahmed
+      Self-directed learning and certifications: 5: Ahmed
+    section Professional
+      Five-A Analytics - ML platform lead: 5: Ahmed
+      SRMS - Security lead: 5: Ahmed
+      Top Performer - Route Academy AI track: 5: Ahmed
+    section Founder
+      NEVAI ecosystem - Executive Chairman: 5: Ahmed
+      Heros browser suite - six extensions: 5: Ahmed
+    section Recognition
+      Seven bridges of knowledge - 73 certifications: 5: Ahmed
+```
+
+### Experience Timeline
+
+```mermaid
+gantt
+    title Career and Build Timeline
+    dateFormat YYYY-MM-DD
+    axisFormat %Y-%m
+    section Career
+    Project Lead Developer - Five-A Analytics :done, 2024-10-01, 2024-12-31
+    Security Lead - SRMS :done, 2025-01-01, 2025-03-31
+    Executive Chairman and Founder - NEVAI :active, 2026-01-01, 2027-06-30
+    section Heros Suite
+    PDF and Markdown studios :done, 2026-01-01, 2026-03-31
+    Todo, Player, NoteBook, markClipper :done, 2026-04-01, 2026-10-31
+    Store publishing and Firefox port :2026-11-01, 2027-03-31
+```
+
+### Data Pipeline Flow — Web-to-Warehouse
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant SRC as 35 Web and API Sources
+    participant CLN as Cleaning and Fuzzy Dedupe
+    participant WH as Kimball Warehouse (29 tables)
+    participant DQ as Data Quality (12 rules)
+    participant AF as Airflow (33 tasks)
+    participant API as FastAPI (216 endpoints)
+    participant UI as React Dashboard
+    SRC->>CLN: ingest raw data
+    CLN->>WH: load conformed dimensions
+    WH->>DQ: validate 12 DQ rules
+    DQ->>AF: orchestrate 33 tasks
+    AF->>API: serve 23 routers
+    API->>UI: render analytics
+    UI-->>AF: feedback loop
+```
+
+### Build Journey
+
+```mermaid
+timeline
+    title Ahmed's Build Journey
+    section Foundations
+        2023 : GitHub account created
+        2024 : Computer Science at Helwan National University
+    section Professional
+        2024 : Five-A Analytics ML platform
+        2025 : SRMS security lead
+    section Founder
+        2026 : NEVAI ecosystem
+        2026 : Heros browser suite
+    section Recognition
+        2026 : 73 certifications across 8 domains
+        2026 : Top Performer Route Academy
+```
+
 ---
 
 ## Big Data and Data Engineering
 
 | Repository | Description | Tech | Activity |
 |---|---|---|---|
-| [**Production-Grade End-to-End Big Data Pipeline**](https://github.com/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency) | Distributed computing, fault tolerance, automated validation, data quality checks and production monitoring across the full pipeline lifecycle | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | 1 star · 1 fork |
+| [**Production-Grade End-to-End Big Data Pipeline**](https://github.com/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency) | Distributed computing, fault tolerance, automated validation, data quality checks and production monitoring across the full pipeline lifecycle | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square) | 1 star · 1 fork |
 | [**Web-to-Warehouse Product Intelligence Pipeline**](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline) | DEPI capstone: 35 permitted web/API sources → cleaning → fuzzy dedupe → 29-table Kimball warehouse → Airflow (33 tasks) → FastAPI (23 routers, 216 endpoints) → React 19 dashboard | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) | Active |
 | [**Spotify Trends Visualization**](https://github.com/Ahmedbakr78/data-visualization-SpotifyTrends) | Unified full-stack ecosystem for streaming analytics: API orchestration, ETL pipeline, data warehousing, interactive dashboards and AI integration | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 1 star · 1 fork |
 | [**GitHub Repository Mining — Advanced Data Mining**](https://github.com/Ahmedbakr78/GitHub-Repository-Mining--Advanced-Data-Mining-Project) | Reproducible multi-stage data mining and NLP pipeline: repository data collection, preprocessing, feature engineering and association analysis | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Active |
@@ -410,13 +605,31 @@ Comprehensive computer science education covering data structures, algorithms, d
 
 ---
 
-## GitHub Activity
+## Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmedbakr78/Ahmedbakr78/output/snake.svg?palette=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmedbakr78/Ahmedbakr78/output/snake-light.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Ahmedbakr78/Ahmedbakr78/output/snake.svg" width="100%" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ahmedbakr78/Ahmedbakr78/output-3d/profile-green-animate.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ahmedbakr78/Ahmedbakr78/output-3d/profile-green-animate.svg" />
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Ahmedbakr78/Ahmedbakr78/output-3d/profile-green-animate.svg" width="100%" />
+</picture>
 
 | Metric | Value |
 |---|---|
 | Contributions in the last year | 410 |
 | Pull Requests | 93% |
 | Code Review | 7% |
+
+</div>
 
 ---
 
@@ -442,6 +655,10 @@ Looking for expertise in **Big Data Engineering**, **Cloud Architecture** or **A
 <br/>
 
 [**Home**](https://ahmed-abo-bakr.pages.dev/) &nbsp;·&nbsp; [**Blog**](https://ahmed-abo-bakr.pages.dev/blog) &nbsp;·&nbsp; [**Projects**](https://ahmed-abo-bakr.pages.dev/projects) &nbsp;·&nbsp; [**Resume**](https://ahmed-abo-bakr.pages.dev/resume) &nbsp;·&nbsp; [**Contact**](https://ahmed-abo-bakr.pages.dev/contact)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:8A2BE2,100:4C8DFF&height=140&section=footer&animation=twinkling" alt="footer">
 
 <sub>2026 Ahmed Abo Bakr. All rights reserved.</sub>
 
