@@ -24,9 +24,9 @@ Cairo, Egypt · [Ahmedbakr@internet.ru](mailto:Ahmedbakr@internet.ru)
 
 <br/>
 
-| 26 | 73 | 10 | 410 | 6 |
+| 26 | 73 | 22 | 410 | 8 |
 |:---:|:---:|:---:|:---:|:---:|
-| **Certifications** | **Across 8 Domains** | **Projects** | **Contributions** | **Skill Areas** |
+| **Certifications** | **Across 8 Domains** | **Public Repositories** | **Contributions** | **Skill Areas** |
 
 </div>
 
@@ -52,182 +52,112 @@ Track record of:
 
 ---
 
-## What I Do
-
-| Discipline | Description | Core Stack |
-|---|---|---|
-| **Big Data Engineering** | Design and implement scalable data pipelines, real-time streaming solutions and enterprise data warehouses | Spark · Airflow · Kafka · ETL/ELT · Data Warehousing |
-| **Cloud Architecture** | Build secure, scalable cloud infrastructure with containerization, microservices and event-driven architectures | AWS · Azure · Docker · Kubernetes · Terraform |
-| **AI & Machine Learning** | Develop intelligent systems using NLP, LLMs, computer vision and predictive modeling | NLP · LLMs · LLMOps · XGBoost · Hugging Face |
-| **Database Solutions** | Design and optimize relational and NoSQL databases with advanced security, RBAC, encryption and performance tuning | SQL Server · Oracle PL/SQL · Database Security · RBAC |
-| **Full-Stack Development** | Build modern web applications with seamless frontend-backend integration | React · Python · Java · TypeScript · FastAPI · Spring Boot |
-| **Data Analytics & Visualization** | Transform raw data into actionable insights through statistical analysis, EDA and interactive dashboards | Statistical Modeling · EDA · Regression · Visualization |
+## Repository Portfolio Map
 
 ```mermaid
-mindmap
-  root((Ahmed Abo Bakr))
-    Top Skills
-      Data Management
-      Data Analysis
-      Big Data
-      Google Analytics
-    Big Data
-      Spark
-      Airflow
-      Kafka
-      Hadoop
-      Streaming
-    Cloud
-      AWS
-      Azure
-      Kubernetes
-      EKS and ECS
-    AI and ML
-      NLP
-      LLMs
-      LLMOps
-      Computer Vision
-    Security
-      RBAC
-      AES-256
-      Inference Control
+graph TB
+    ROOT(["github.com/Ahmedbakr78"])
+
+    subgraph BD["Big Data and Data Engineering"]
+        B1["Production Big Data Pipeline"]
+        B2["Web-to-Warehouse Pipeline"]
+        B3["Spotify Trends Visualization"]
+        B4["GitHub Repository Mining"]
+        B5["GitHub Ecosystem Mining App"]
+    end
+
+    subgraph ML["AI and Machine Learning"]
+        M1["MIZAN Legal NLP"]
+        M2["Nevai Search Engine"]
+        M3["House Price Prediction"]
+        M4["X-Ray Fracture Reporting"]
+        M5["Movie Analytics Dashboard"]
+        M6["Student Management AI"]
+    end
+
+    subgraph FS["Full-Stack Platforms"]
+        F1["TourMate"]
+        F2["Tour"]
+    end
+
+    subgraph SEC["Security and Blockchain"]
+        S1["Secure Student Records SRMS"]
+        S2["Blockchain Voting System"]
+    end
+
+    subgraph DB["Databases"]
+        D1["Oracle Exam Management"]
+    end
+
+    subgraph HERO["Heros Browser Suite"]
+        H1["Heros PDF"]
+        H2["Heros Markdown"]
+        H3["Heros NoteBook"]
+        H4["Heros Todo"]
+        H5["Heros Player"]
+        H6["markClipper"]
+    end
+
+    ROOT --> BD & ML & FS & SEC & DB & HERO
 ```
 
 ---
 
-## Complete Skills Matrix
+## Big Data and Data Engineering
 
-### Spotlight Skills
-
-`Data Management` `Data Analysis` `Big Data` `Google Analytics`
-
-<details open>
-<summary><b>Big Data & Engineering</b></summary>
-
-<br/>
-
-`Apache Spark` `Apache Airflow` `Kafka` `Kafka Integration` `Hadoop` `ETL/ELT` `Real-time Streaming` `Data Warehousing` `Parallel Programming` `Designing Event-Driven Architectures` `Big Data Associate` `Troubleshooting`
-
-</details>
-
-<details open>
-<summary><b>Cloud & Infrastructure</b></summary>
-
-<br/>
-
-`AWS` `Azure` `Microsoft Azure for AI and Machine Learning` `Docker` `Kubernetes` `Containers on Amazon EKS` `Amazon ECS` `Amazon Aurora MySQL` `Connecting Systems and Machines to AWS` `Practical Data Science with Amazon SageMaker` `Event-Driven Architecture` `Terraform`
-
-</details>
-
-<details open>
-<summary><b>Databases & SQL</b></summary>
-
-<br/>
-
-`SQL Server` `T-SQL` `Oracle PL/SQL` `SQL` `H2 Integration` `RBAC` `Database Security` `AES-256 Encryption` `Multilevel Security` `Inference Control` `Data Integrity` `Query Optimization`
-
-</details>
-
-<details open>
-<summary><b>AI & Machine Learning</b></summary>
-
-<br/>
-
-`Artificial Intelligence and Machine Learning` `AI` `Machine Learning` `Machine Learning Essentials for Business` `NLP` `LLMs` `LLMOps` `Hugging Face` `Statistical Models like BoW and TF-IDF` `Importance of Embeddings for NLP` `Embedding Metrics and Visualization` `Techniques for Static Embeddings` `Foundations of Prompt Engineering` `Managing the Application` `XGBoost` `Computer Vision` `Predictive Modeling` `Regression Analysis` `PCA` `Association Rules` `Automated Machine Learning`
-
-</details>
-
-<details open>
-<summary><b>AI & ML for Healthcare</b></summary>
-
-<br/>
-
-`NLP for Clinical Data` `Predictive Modeling for Disease Progression` `Machine Learning for Healthcare Analytics` `Computer Vision for Motor Symptom Monitoring` `Healthcare Data Mining & Analytics` `Health Informatics Software Development` `Telehealth & Telemedicine Platforms`
-
-</details>
-
-<details open>
-<summary><b>Languages & Frameworks</b></summary>
-
-<br/>
-
-`Python` `Java` `JavaScript` `TypeScript` `C#` `ASP.NET` `Spring Boot` `React` `FastAPI` `Node.js` `REST API Integration` `REST API Controller` `SQL` `JavaScript / TS` `Browser Extensions (MV3)`
-
-</details>
-
-<details open>
-<summary><b>Data & Analytics</b></summary>
-
-<br/>
-
-`Data Mining` `EDA` `Exploratory Data Analysis` `Statistical Modeling` `Hypothesis Testing` `Production-Grade Big Data Pipelines` `Data Visualization` `Interactive Dashboards` `Business Models` `Research in Finance` `Account Management`
-
-</details>
-
-<details open>
-<summary><b>Analytics, SEO & Digital Marketing</b></summary>
-
-<br/>
-
-`Google Analytics` `SEO` `Technical SEO Analyst` `Keyword Research` `Digital Marketing` `AI-Powered Performance Ads` `AI-Powered Shopping Ads` `Microsoft Office 365`
-
-</details>
-
-<details open>
-<summary><b>Security & Systems</b></summary>
-
-<br/>
-
-`Information Security` `Information Technology` `Systems Engineering` `Computational Thinking` `5 Security Models` `Role-Based Access Control` `Statistical Attack Mitigation` `Blockchain Scalability and Distributed Systems` `Cryptographic Anonymity` `Smart Contracts`
-
-</details>
-
-<details open>
-<summary><b>Sustainability & UN Programs</b></summary>
-
-<br/>
-
-`Climate Resilience Data Analyst` `Green Finance Data Analyst` `Sustainable IT Analyst` `E-Waste Data` `Green Industrial Policy` `Regulatory Compliance IT Analyst` `Social Impact Technologist` `Sustainable Development Data Analyst` `Digital Program Planning Analyst`
-
-</details>
-
-<details open>
-<summary><b>Professional & Soft Skills</b></summary>
-
-<br/>
-
-`Strategic Communication & Teamwork` `Empathetic Communication` `Self-Directed Learning` `Design Thinking` `Creativity` `Teamwork` `Volunteering` `International Team Leadership` `Technical Writing`
-
-</details>
+| Repository | Description | Tech | Activity |
+|---|---|---|---|
+| [**Production-Grade End-to-End Big Data Pipeline**](https://github.com/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency) | Distributed computing, fault tolerance, automated validation, data quality checks and production monitoring across the full pipeline lifecycle | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) | 1 star · 1 fork |
+| [**Web-to-Warehouse Product Intelligence Pipeline**](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline) | DEPI capstone: 35 permitted web/API sources → cleaning → fuzzy dedupe → 29-table Kimball warehouse → Airflow (33 tasks) → FastAPI (23 routers, 216 endpoints) → React 19 dashboard | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) | Active |
+| [**Spotify Trends Visualization**](https://github.com/Ahmedbakr78/data-visualization-SpotifyTrends) | Unified full-stack ecosystem for streaming analytics: API orchestration, ETL pipeline, data warehousing, interactive dashboards and AI integration | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 1 star · 1 fork |
+| [**GitHub Repository Mining — Advanced Data Mining**](https://github.com/Ahmedbakr78/GitHub-Repository-Mining--Advanced-Data-Mining-Project) | Reproducible multi-stage data mining and NLP pipeline: repository data collection, preprocessing, feature engineering and association analysis | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Active |
+| [**GitHub Ecosystem Mining App**](https://github.com/Ahmedbakr78/GitHub-ecosystem-mining-app) | Web mining and repository data collection with data preprocessing, feature engineering and association rules | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Active |
 
 ---
 
-## Featured Projects
+## AI and Machine Learning
 
-| Project | Description | Stack |
-|---|---|---|
-| [**Production-Grade Big Data Pipeline**](https://github.com/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency) | End-to-end big data processing pipeline with distributed computing, fault tolerance, data quality checks and production monitoring | Shell · Spark · ETL |
-| [**MIZAN — Egyptian Arabic Legal Assistant**](https://ahmed-abo-bakr.pages.dev/projects) | NLP system for Egyptian Arabic legal documents using Retrieval-Augmented Generation (RAG) with a Gradio interface | Python · NLP · RAG · AI |
-| [**Focus Search Engine**](https://github.com/Ahmedbakr78/5-A-Nevai-Search-Engine) | Privacy-focused AI-powered search engine with a Chrome extension, REST API and advanced ranking algorithms | Python · JavaScript · REST · Chrome |
-| [**Spotify Trends Visualization**](https://github.com/Ahmedbakr78/data-visualization-SpotifyTrends) | Data engineering for music streaming analytics: Spotify API, ETL pipeline, warehousing and interactive dashboards | Python · ETL · Visualization |
-| [**GitHub Repository Mining**](https://github.com/Ahmedbakr78/GitHub-Repository-Mining--Advanced-Data-Mining-Project) | Automated data-mining pipeline extracting insights from repositories with parallel processing at scale | Python · Data Mining · Analytics |
-| [**Student Management System**](https://github.com/Ahmedbakr78) | AI-powered academic platform with FastAPI backend, React frontend and predictive analytics | Python · FastAPI · React · AI |
-| [**Blockchain Voting System**](https://github.com/Ahmedbakr78) | Decentralized voting with cryptographic anonymity and smart-contract-based tallying | Python · Blockchain · Security |
-| [**Automated X-Ray Fracture Reporting**](https://github.com/Ahmedbakr78) | Computer-vision system detecting and classifying bone fractures from X-ray images with automated reporting | Python · Computer Vision · Healthcare |
-| [**Movie Analytics Dashboard**](https://github.com/Ahmedbakr78) | Film-industry analytics with EDA, trend visualization, statistical modeling and box-office prediction | Python · Jupyter · Statistics |
-| [**University Exam Management System**](https://github.com/Ahmedbakr78) | Enterprise Oracle database solution for exam scheduling, enrollment, grading and reporting | Oracle PL/SQL · Database |
-
-<div align="center">
-
-[View all projects on the portfolio](https://ahmed-abo-bakr.pages.dev/projects) &nbsp;·&nbsp; [View all repositories on GitHub](https://github.com/Ahmedbakr78?tab=repositories)
-
-</div>
+| Repository | Description | Tech | Activity |
+|---|---|---|---|
+| [**MIZAN — Egyptian Arabic Legal Assistant**](https://ahmed-abo-bakr.pages.dev/projects) | NLP system for Egyptian Arabic legal documents with Retrieval-Augmented Generation, Gradio interface and complex legal terminology handling | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square) ![RAG](https://img.shields.io/badge/-RAG-14b8a6?style=flat-square) | Featured |
+| [**5-A Nevai Search Engine**](https://github.com/Ahmedbakr78/5-A-Nevai-Search-Engine) | Privacy-focused AI-powered multi-source search engine (SPA) with enterprise-grade security, Chrome extension and RESTful API | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square) | 1 fork |
+| [**House Price Prediction and Customer Segmentation**](https://github.com/Ahmedbakr78/House-Price-Prediction-Customer-Segmentation) | Dual ML workflows: regression with advanced preprocessing and state-of-the-art algorithms, plus customer segmentation | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-189AB4?style=flat-square) | 1 star · 1 fork |
+| [**Automated Multi-Modal X-Ray Fracture and Crack Reporting**](https://github.com/Ahmedbakr78/Automated-Multi-Modal-X-Ray-Fracture-Crack-Reporting-System) | Computer-vision medical system: detects and classifies bone fractures from X-ray images with automated reporting | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![CV](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square) ![Healthcare](https://img.shields.io/badge/-Healthcare-22c55e?style=flat-square) | 1 star · 1 fork |
+| [**MR — Movie Analytics Dashboard (Cinematics)**](https://github.com/Ahmedbakr78/MR---Movie-Analytics-Dashboard-Cinematics-Dashboard-) | Web-based film-industry analytics platform: EDA, trend visualization, statistical modeling and box-office prediction | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Analytics](https://img.shields.io/badge/-Analytics-4c8dff?style=flat-square) | 1 star · 1 fork |
+| [**5-A Student Management System**](https://github.com/Ahmedbakr78/5-A-Student-Management-System) | AI-powered student management and search platform using FastAPI and React with predictive analytics | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | Active |
+| [**Student Management System — Modular Architecture**](https://github.com/Ahmedbakr78/Student-Management-System-was-engineered-with-distinct) | Engineered with distinct, measurable objectives to overcome common limitations in monolithic educational software | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Active |
 
 ---
 
-## Open-Source Work — The Nevai Ecosystem
+## Full-Stack Platforms
 
-Founder and builder of **NEVAI**, a decentralized, federated workspace platform built from the ground up with its own open protocol, identity layer and governance system. The ecosystem ships a 25-bridge messaging federation over Matrix, an encrypted office suite, a no-code database, AI agent tooling and a privacy-first browser suite.
+| Repository | Description | Tech | Activity |
+|---|---|---|---|
+| [**TourMate**](https://github.com/Ahmedbakr78/TourMate) | Full MEAN-stack smart tourism platform (Tourist, Driver, Guide, Admin): Angular 17 standalone, Express + MongoDB, JWT/bcrypt auth, polling-based live tracking, Overpass/OSRM integration, Leaflet maps, i18n EN/AR + RTL, Zara/Zen monochrome UI, Swagger docs, Docker and CI ready | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | Active |
+| [**Tour**](https://github.com/Ahmedbakr78/Tour) | Smart tourism platform — live tracking, real-time maps, multi-role dashboards and bilingual interface | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 1 star · 1 fork |
+
+---
+
+## Security and Blockchain
+
+| Repository | Description | Tech | Activity |
+|---|---|---|---|
+| [**Secure Student Records Management System (SRMS)**](https://github.com/Ahmedbakr78/Data-Security-Secure-Student-Records-Management-System-SRMS-) | Database application enforcing five core database security models: RBAC, multilevel security, AES-256 encryption and inference control | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/-Security-critical?style=flat-square) | 1 star · 1 fork |
+| [**Blockchain-Powered Voting System**](https://github.com/Ahmedbakr78/secure-blockchain-powered-voting-system-featuring-a-graphical-interface-background-data-auditing) | Decentralized voting with graphical interface, cryptographic security for voter anonymity and background data auditing | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square) | Active |
+
+---
+
+## Databases
+
+| Repository | Description | Tech | Activity |
+|---|---|---|---|
+| [**University Exam Management System (Oracle)**](https://github.com/Ahmedbakr78/University-Exam-Management-System-Oracle) | Multi-user Oracle PL/SQL solution with strict separation of duties, robust business logic, exam scheduling, enrollment, grading and reporting | ![Oracle](https://img.shields.io/badge/-Oracle%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white) | 1 star · 1 fork |
+
+---
+
+## Nevai Ecosystem — Founder and Builder
+
+NEVAI is a decentralized, federated workspace platform built from the ground up with its own open protocol, identity layer and governance system. The ecosystem ships a 25-bridge messaging federation over Matrix, an encrypted office suite, a no-code database, AI agent tooling and a privacy-first browser suite.
 
 | Area | What was built |
 |---|---|
@@ -253,24 +183,131 @@ graph TB
     PRIVACY["Data stays where users decide"] --> PROTOCOL
 ```
 
-### Browser Suite
+### Heros Browser Suite
 
 Six Chromium (MV3) extensions, one design language: free, private, unlimited, 100% local.
 
-| Project | Description |
-|---|---|
-| [**Heros PDF**](https://github.com/Ahmedbakr78/Heros_PDF) | PDF viewer and editor studio — annotate, merge, split, search, watermark |
-| [**Heros Markdown**](https://github.com/Ahmedbakr78/heros-markdown) | Markdown studio — offline KaTeX math, every Mermaid diagram, RTL support |
-| [**Heros NoteBook**](https://github.com/Ahmedbakr78/Heros_Jupter) | `.ipynb` viewer with a real Python runner via Pyodide WebAssembly |
-| [**Heros Todo**](https://github.com/Ahmedbakr78/Heros_Todo) | Markdown, PDF and LaTeX panel studio with workspaces and clickable tasks |
-| [**Heros Player**](https://github.com/Ahmedbakr78/Heros_Music_Player) | Remote control for YouTube Music, YouTube and Spotify tabs |
-| [**markClipper**](https://github.com/Ahmedbakr78/Heros_Note) | Web clipper and Photo Lab — articles, selections and galleries to Markdown |
+| Repository | Description | Website |
+|---|---|---|
+| [**Heros PDF**](https://github.com/Ahmedbakr78/Heros_PDF) | PDF viewer and editor studio — annotate, merge, split, search, watermark | [Site](https://ahmedbakr78.github.io/Heros_PDF/) |
+| [**Heros Markdown**](https://github.com/Ahmedbakr78/heros-markdown) | Markdown studio — offline KaTeX math, every Mermaid diagram, RTL support | [Site](https://ahmedbakr78.github.io/heros-markdown/) |
+| [**Heros NoteBook**](https://github.com/Ahmedbakr78/Heros_Jupter) | `.ipynb` viewer with a real Python runner via Pyodide WebAssembly | [Site](https://ahmedbakr78.github.io/Heros_Jupter/) |
+| [**Heros Todo**](https://github.com/Ahmedbakr78/Heros_Todo) | Markdown, PDF and LaTeX panel studio with workspaces and clickable tasks | [Site](https://ahmedbakr78.github.io/Heros_Todo/) |
+| [**Heros Player**](https://github.com/Ahmedbakr78/Heros_Music_Player) | Remote control for YouTube Music, YouTube and Spotify tabs | [Site](https://ahmedbakr78.github.io/Heros_Music_Player/) |
+| [**markClipper**](https://github.com/Ahmedbakr78/Heros_Note) | Web clipper and Photo Lab — articles, selections and galleries to Markdown | [Site](https://ahmedbakr78.github.io/Heros_Note/) |
+
+---
+
+## Complete Skills Matrix
+
+### Spotlight Skills
+
+`Data Management` `Data Analysis` `Big Data` `Google Analytics`
+
+<details open>
+<summary><b>Big Data and Engineering</b></summary>
+
+<br/>
+
+`Apache Spark` `Apache Airflow` `Kafka` `Kafka Integration` `Hadoop` `ETL/ELT` `Real-time Streaming` `Data Warehousing` `Parallel Programming` `Designing Event-Driven Architectures` `Big Data Associate` `Troubleshooting`
+
+</details>
+
+<details open>
+<summary><b>Cloud and Infrastructure</b></summary>
+
+<br/>
+
+`AWS` `Azure` `Microsoft Azure for AI and Machine Learning` `Docker` `Kubernetes` `Containers on Amazon EKS` `Amazon ECS` `Amazon Aurora MySQL` `Connecting Systems and Machines to AWS` `Practical Data Science with Amazon SageMaker` `Event-Driven Architecture` `Terraform`
+
+</details>
+
+<details open>
+<summary><b>Databases and SQL</b></summary>
+
+<br/>
+
+`SQL Server` `T-SQL` `Oracle PL/SQL` `SQL` `H2 Integration` `RBAC` `Database Security` `AES-256 Encryption` `Multilevel Security` `Inference Control` `Data Integrity` `Query Optimization`
+
+</details>
+
+<details open>
+<summary><b>AI and Machine Learning</b></summary>
+
+<br/>
+
+`Artificial Intelligence and Machine Learning` `AI` `Machine Learning` `Machine Learning Essentials for Business` `NLP` `LLMs` `LLMOps` `Hugging Face` `Statistical Models like BoW and TF-IDF` `Importance of Embeddings for NLP` `Embedding Metrics and Visualization` `Techniques for Static Embeddings` `Foundations of Prompt Engineering` `Managing the Application` `XGBoost` `Computer Vision` `Predictive Modeling` `Regression Analysis` `PCA` `Association Rules` `Automated Machine Learning`
+
+</details>
+
+<details open>
+<summary><b>AI and ML for Healthcare</b></summary>
+
+<br/>
+
+`NLP for Clinical Data` `Predictive Modeling for Disease Progression` `Machine Learning for Healthcare Analytics` `Computer Vision for Motor Symptom Monitoring` `Healthcare Data Mining and Analytics` `Health Informatics Software Development` `Telehealth and Telemedicine Platforms`
+
+</details>
+
+<details open>
+<summary><b>Languages and Frameworks</b></summary>
+
+<br/>
+
+`Python` `Java` `JavaScript` `TypeScript` `C#` `ASP.NET` `Spring Boot` `React` `FastAPI` `Node.js` `REST API Integration` `REST API Controller` `SQL` `Browser Extensions (MV3)`
+
+</details>
+
+<details open>
+<summary><b>Data and Analytics</b></summary>
+
+<br/>
+
+`Data Mining` `EDA` `Exploratory Data Analysis` `Statistical Modeling` `Hypothesis Testing` `Production-Grade Big Data Pipelines` `Data Visualization` `Interactive Dashboards` `Business Models` `Research in Finance` `Account Management`
+
+</details>
+
+<details open>
+<summary><b>Analytics, SEO and Digital Marketing</b></summary>
+
+<br/>
+
+`Google Analytics` `SEO` `Technical SEO Analyst` `Keyword Research` `Digital Marketing` `AI-Powered Performance Ads` `AI-Powered Shopping Ads` `Microsoft Office 365`
+
+</details>
+
+<details open>
+<summary><b>Security and Systems</b></summary>
+
+<br/>
+
+`Information Security` `Information Technology` `Systems Engineering` `Computational Thinking` `5 Security Models` `Role-Based Access Control` `Statistical Attack Mitigation` `Blockchain Scalability and Distributed Systems` `Cryptographic Anonymity` `Smart Contracts`
+
+</details>
+
+<details open>
+<summary><b>Sustainability and UN Programs</b></summary>
+
+<br/>
+
+`Climate Resilience Data Analyst` `Green Finance Data Analyst` `Sustainable IT Analyst` `E-Waste Data` `Green Industrial Policy` `Regulatory Compliance IT Analyst` `Social Impact Technologist` `Sustainable Development Data Analyst` `Digital Program Planning Analyst`
+
+</details>
+
+<details open>
+<summary><b>Professional and Soft Skills</b></summary>
+
+<br/>
+
+`Strategic Communication and Teamwork` `Empathetic Communication` `Self-Directed Learning` `Design Thinking` `Creativity` `Teamwork` `Volunteering` `International Team Leadership` `Technical Writing`
+
+</details>
 
 ---
 
 ## Experience
 
-### Executive Chairman & Founder — Independent
+### Executive Chairman and Founder — Independent
 
 **Jan 2026 – Present**
 
@@ -305,7 +342,7 @@ A decentralized, federated workspace platform built from the ground up with its 
 - Streamlined statistical hypothesis testing across 30 variable combinations
 - Orchestrated a 6-stage data pipeline reducing processing time to under 2 minutes
 
-### Training & Programs
+### Training and Programs
 
 | Program | Detail |
 |---|---|
@@ -314,7 +351,7 @@ A decentralized, federated workspace platform built from the ground up with its 
 | Huawei Big Data Associate | National Telecommunication Institute (NTI) |
 | NTI MEAN-Stack Training | 100% score |
 | MCIT AI Advanced | Fast Lane in partnership with Microsoft |
-| Route Academy — AI & ML Track | Top Performer |
+| Route Academy — AI and ML Track | Top Performer |
 | Oracle AI for You | Badge |
 
 ---
@@ -339,7 +376,7 @@ Comprehensive computer science education covering data structures, algorithms, d
 | Data Analysis and Business Applications | Microsoft | Oct 2026 | 72JPM2VXM9K1 |
 | Decisions, Decisions: Dashboards and Reports | Google | Oct 2026 | DVBC01MW0A31 |
 | MLOps Specialization | Duke University | Sep 2026 | FFI6MAZIV65Z |
-| Microsoft AI & ML Engineering (Professional Certificate) | Microsoft | Sep 2026 | BJQ4SWD8YQK9 |
+| Microsoft AI and ML Engineering (Professional Certificate) | Microsoft | Sep 2026 | BJQ4SWD8YQK9 |
 | Microsoft Azure for AI and Machine Learning | Microsoft | Aug 2026 | A2GT06ZA9HT1 |
 | Building Intelligent Troubleshooting Agents | Microsoft | Aug 2026 | PWFE4IDXYSK9 |
 | AI and Machine Learning Algorithms and Techniques | Microsoft | May 2026 | 0M7Z3K64OUNF |
@@ -349,7 +386,7 @@ Comprehensive computer science education covering data structures, algorithms, d
 | AI for Research and Insights | Google | Apr 2026 | RLF4RHVGKJ1J |
 | AI for Brainstorming and Planning | Google | Apr 2026 | IG37T6W6GPQC |
 | AI Fundamentals | Google | Apr 2026 | HFU30XZK1JV7 |
-| Python for Data Science, AI & Development | IBM | Apr 2026 | D4VSBRUIW4VJ |
+| Python for Data Science, AI and Development | IBM | Apr 2026 | D4VSBRUIW4VJ |
 | Python Project for Data Engineering | IBM | Apr 2026 | 3KRLRT6X4RAF |
 | AWS AI Practitioner Challenge | Udacity | Apr 2026 | a49190f6-303d-11f1-ba94-e7c940fb3e00 |
 | Blockchain Scalability and Distributed Systems | University of Sydney | Apr 2026 | DRNBXOMTLDO6 |
