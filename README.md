@@ -29,7 +29,6 @@ Cairo, Egypt · [Ahmedbakr@internet.ru](mailto:Ahmedbakr@internet.ru)
 ![Contributions](https://img.shields.io/badge/Contributions-410-FF6F00?style=for-the-badge&logo=git&logoColor=white)
 ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Unlocked-4C8DFF?style=for-the-badge&logo=github&logoColor=white)
 ![Quickdraw](https://img.shields.io/badge/Quickdraw-Unlocked-EA4335?style=for-the-badge&logo=github&logoColor=white)
-![Visitors](https://komarev.com/ghpvc/?username=Ahmedbakr78&style=for-the-badge&color=4c8dff&label=Profile+Visitors)
 ![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-22c55e?style=for-the-badge&logo=handshake&logoColor=white)
 
 <br/>
@@ -185,9 +184,7 @@ Track record of:
 
 <div align="center">
 
-### Web-to-Warehouse Product Intelligence Pipeline
-
-<a href="https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline"><img src="https://opengraph.githubassets.com/1/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline" width="85%" alt="Web-to-Warehouse"></a>
+### [Web-to-Warehouse Product Intelligence Pipeline](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
@@ -199,9 +196,7 @@ Track record of:
 
 <br/>
 
-### TourMate
-
-<a href="https://github.com/Ahmedbakr78/TourMate"><img src="https://opengraph.githubassets.com/1/Ahmedbakr78/TourMate" width="85%" alt="TourMate"></a>
+### [TourMate](https://github.com/Ahmedbakr78/TourMate)
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -212,9 +207,7 @@ MEAN-stack smart tourism platform with live tracking, bilingual UI and 4 role da
 
 <br/>
 
-### Production-Grade Big Data Pipeline
-
-<a href="https://github.com/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency"><img src="https://opengraph.githubassets.com/1/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency" width="85%" alt="Big Data Pipeline"></a>
+### [Production-Grade Big Data Pipeline](https://github.com/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency)
 
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square)
