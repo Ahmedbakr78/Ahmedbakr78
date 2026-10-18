@@ -886,7 +886,7 @@ Comprehensive computer science education covering data structures, algorithms, d
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-- Loading latest public activity…
+1. 🚀 Published release [v1.1.0 — Photo Lab max power](https://github.com/Ahmedbakr78/Heros_Note/releases/tag/v1.1.0) in [Ahmedbakr78/Heros_Note](https://github.com/Ahmedbakr78/Heros_Note)
 <!--END_SECTION:activity-->
 
 ---
