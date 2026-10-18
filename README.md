@@ -20,18 +20,50 @@ Cairo, Egypt · [Ahmedbakr@internet.ru](mailto:Ahmedbakr@internet.ru)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--abo--bakr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-abo-bakr)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahmedbakr78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmedbakr78)
 [![Email](https://img.shields.io/badge/Email-Ahmedbakr%40internet.ru-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:Ahmedbakr@internet.ru)
-[![Follow](https://img.shields.io/github/followers/Ahmedbakr78?style=for-the-badge&logo=github&label=Follow&color=8A2BE2)](https://github.com/Ahmedbakr78)
-[![Visitors](https://komarev.com/ghpvc/?username=Ahmedbakr78&style=for-the-badge&color=4c8dff&label=Profile+Visitors)](https://github.com/Ahmedbakr78)
 
 <br/>
 
-| 26 | 73 | 22 | 410 | 8 | 25 |
+![Followers](https://img.shields.io/github/followers/Ahmedbakr78?style=for-the-badge&logo=github&label=Followers&color=8A2BE2)
+![Repositories](https://img.shields.io/badge/Public%20Repositories-22-4C8DFF?style=for-the-badge&logo=github&logoColor=white)
+![Certifications](https://img.shields.io/badge/Certifications-26-14B8A6?style=for-the-badge&logo=coursera&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions-410-FF6F00?style=for-the-badge&logo=git&logoColor=white)
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Unlocked-4C8DFF?style=for-the-badge&logo=github&logoColor=white)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-Unlocked-EA4335?style=for-the-badge&logo=github&logoColor=white)
+![Visitors](https://komarev.com/ghpvc/?username=Ahmedbakr78&style=for-the-badge&color=4c8dff&label=Profile+Visitors)
+![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-22c55e?style=for-the-badge&logo=handshake&logoColor=white)
+
+<br/>
+
+| 26 | 73 | 22 | 410 | 13 | 25 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **Certifications** | **Across 8 Domains** | **Public Repositories** | **Contributions** | **Skill Areas** | **Matrix Bridges** |
+| **Certifications** | **Across 8 Domains** | **Public Repositories** | **Contributions** | **Diagrams Below** | **Matrix Bridges** |
+
+<br/>
+
+<details>
+<summary><b>Table of Contents</b></summary>
+
+<br/>
+
+| Section | Section |
+|---|---|
+| [Tech Arsenal](#tech-arsenal) | [Complete Skills Matrix](#complete-skills-matrix) |
+| [What I Do](#what-i-do) | [Experience](#experience) |
+| [Featured Projects](#featured-projects) | [Education](#education) |
+| [Repository Portfolio Map](#repository-portfolio-map) | [Certifications](#certifications) |
+| [Big Data and Data Engineering](#big-data-and-data-engineering) | [Achievements](#achievements) |
+| [AI and Machine Learning](#ai-and-machine-learning) | [Contribution Activity](#contribution-activity) |
+| [Full-Stack Platforms](#full-stack-platforms) | [Recent Activity](#recent-activity) |
+| [Security and Blockchain](#security-and-blockchain) | [Languages](#languages) |
+| [Databases](#databases) | [Ask Me About](#ask-me-about) |
+| [Nevai Ecosystem](#nevai-ecosystem--founder-and-builder) | [Beyond the Code](#beyond-the-code) |
+| [Roadmap](#roadmap) | [Let's Work Together](#lets-work-together) |
+
+</details>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C8DFF,50:8A2BE2,100:14B8A6&height=3&width=1000" width="100%" alt="divider">
 
 ## About Me
 
@@ -60,7 +92,11 @@ Track record of:
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Flink](https://img.shields.io/badge/Flink-E6526F?style=for-the-badge&logo=apacheflink&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=for-the-badge)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-1F6FEB?style=for-the-badge)
 ![ETL](https://img.shields.io/badge/ETL%20%2F%20ELT-8A2BE2?style=for-the-badge)
 ![Streaming](https://img.shields.io/badge/Real--time%20Streaming-14B8A6?style=for-the-badge)
 ![Warehousing](https://img.shields.io/badge/Data%20Warehousing-4C8DFF?style=for-the-badge)
@@ -74,6 +110,7 @@ Track record of:
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Databases and SQL
 
@@ -82,21 +119,25 @@ Track record of:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![RBAC](https://img.shields.io/badge/RBAC%20%2B%20AES--256-critical?style=for-the-badge)
 
 ### AI and Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=for-the-badge)
-![LLMOps](https://img.shields.io/badge/LLMOps-14B8A6?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-14B8A6?style=for-the-badge)
+![LLMOps](https://img.shields.io/badge/LLMOps-FF6F00?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 
 ### Languages and Frameworks
 
@@ -110,7 +151,11 @@ Track record of:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST](https://img.shields.io/badge/REST%20APIs-4C8DFF?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Security and Systems
 
@@ -119,7 +164,7 @@ Track record of:
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-8A2BE2?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome%20MV3%20Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ---
 
@@ -133,6 +178,51 @@ Track record of:
 | **Database Solutions** | Design and optimize relational and NoSQL databases with advanced security, RBAC, encryption and performance tuning | SQL Server · Oracle PL/SQL · Database Security · RBAC |
 | **Full-Stack Development** | Build modern web applications with seamless frontend-backend integration | React · Python · Java · TypeScript · FastAPI · Spring Boot |
 | **Data Analytics & Visualization** | Transform raw data into actionable insights through statistical analysis, EDA and interactive dashboards | Statistical Modeling · EDA · Regression · Visualization |
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+### Web-to-Warehouse Product Intelligence Pipeline
+
+<a href="https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline"><img src="https://opengraph.githubassets.com/1/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline" width="85%" alt="Web-to-Warehouse"></a>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+[![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline?style=flat-square&color=14B8A6)](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline)
+
+35 sources → 29-table Kimball warehouse → Airflow (33 tasks) → FastAPI (216 endpoints) → React 19 dashboard
+
+<br/>
+
+### TourMate
+
+<a href="https://github.com/Ahmedbakr78/TourMate"><img src="https://opengraph.githubassets.com/1/Ahmedbakr78/TourMate" width="85%" alt="TourMate"></a>
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+[![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/TourMate?style=flat-square&color=14B8A6)](https://github.com/Ahmedbakr78/TourMate)
+
+MEAN-stack smart tourism platform with live tracking, bilingual UI and 4 role dashboards
+
+<br/>
+
+### Production-Grade Big Data Pipeline
+
+<a href="https://github.com/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency"><img src="https://opengraph.githubassets.com/1/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency" width="85%" alt="Big Data Pipeline"></a>
+
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square)
+[![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency?style=flat-square&color=14B8A6)](https://github.com/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency)
+
+Distributed computing, fault tolerance, automated validation and production monitoring
+
+</div>
 
 ---
 
@@ -183,6 +273,40 @@ graph TB
     end
 
     ROOT --> BD & ML & FS & SEC & DB & HERO
+```
+
+### Tech Mindmap
+
+```mermaid
+mindmap
+  root((Ahmed Abo Bakr))
+    Big Data
+      Spark
+      Airflow
+      Kafka
+      Hadoop
+      Warehousing
+    AI and ML
+      NLP
+      LLMs
+      RAG
+      Computer Vision
+      XGBoost
+    Cloud
+      AWS
+      Azure
+      Kubernetes
+      Terraform
+    Engineering
+      Python
+      Java
+      TypeScript
+      SQL
+      REST APIs
+    Security
+      RBAC
+      AES-256
+      Blockchain
 ```
 
 ### Portfolio Distribution by Domain
@@ -277,6 +401,74 @@ sequenceDiagram
     UI-->>AF: feedback loop
 ```
 
+### Pipeline Lifecycle States
+
+```mermaid
+stateDiagram-v2
+    [*] --> Raw
+    Raw --> Cleansed : extract and profile
+    Cleansed --> Deduplicated : fuzzy matching
+    Deduplicated --> Modeled : Kimball modeling
+    Modeled --> Validated : 12 DQ rules pass
+    Validated --> Served : publish to API
+    Raw --> Quarantined : schema drift detected
+    Quarantined --> Cleansed : fix and replay
+    Served --> [*] : dashboard delivery
+```
+
+### Warehouse Schema — Star Model
+
+```mermaid
+erDiagram
+    DIM_PRODUCT ||--o{ FACT_PRICE_HISTORY : tracks
+    DIM_SOURCE ||--o{ FACT_PRICE_HISTORY : reports
+    DIM_CATEGORY ||--o{ DIM_PRODUCT : contains
+    DIM_DATE ||--o{ FACT_PRICE_HISTORY : buckets
+    DIM_PRODUCT {
+        int product_key PK
+        string product_name
+        string brand
+        int category_key FK
+    }
+    DIM_SOURCE {
+        int source_key PK
+        string source_name
+        string source_type
+    }
+    DIM_DATE {
+        int date_key PK
+        date full_date
+        int year
+        int quarter
+    }
+    FACT_PRICE_HISTORY {
+        int fact_key PK
+        int product_key FK
+        int source_key FK
+        int date_key FK
+        decimal price
+        decimal discount
+    }
+```
+
+### Heros Suite Release Train
+
+```mermaid
+gitGraph
+    commit id: "Heros inception"
+    branch heros-suite
+    checkout heros-suite
+    commit id: "v1.0 PDF + Markdown"
+    commit id: "v1.1 NoteBook + Todo"
+    branch store-ready
+    checkout store-ready
+    commit id: "v2.0 Player + markClipper"
+    commit id: "v2.2.0 release"
+    checkout heros-suite
+    merge store-ready
+    commit id: "v3.0 Firefox and Edge"
+```
+
 ### Build Journey
 
 ```mermaid
@@ -302,11 +494,11 @@ timeline
 
 | Repository | Description | Tech | Activity |
 |---|---|---|---|
-| [**Production-Grade End-to-End Big Data Pipeline**](https://github.com/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency) | Distributed computing, fault tolerance, automated validation, data quality checks and production monitoring across the full pipeline lifecycle | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square) | 1 star · 1 fork |
-| [**Web-to-Warehouse Product Intelligence Pipeline**](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline) | DEPI capstone: 35 permitted web/API sources → cleaning → fuzzy dedupe → 29-table Kimball warehouse → Airflow (33 tasks) → FastAPI (23 routers, 216 endpoints) → React 19 dashboard | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) | Active |
-| [**Spotify Trends Visualization**](https://github.com/Ahmedbakr78/data-visualization-SpotifyTrends) | Unified full-stack ecosystem for streaming analytics: API orchestration, ETL pipeline, data warehousing, interactive dashboards and AI integration | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | 1 star · 1 fork |
-| [**GitHub Repository Mining — Advanced Data Mining**](https://github.com/Ahmedbakr78/GitHub-Repository-Mining--Advanced-Data-Mining-Project) | Reproducible multi-stage data mining and NLP pipeline: repository data collection, preprocessing, feature engineering and association analysis | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | Active |
-| [**GitHub Ecosystem Mining App**](https://github.com/Ahmedbakr78/GitHub-ecosystem-mining-app) | Web mining and repository data collection with data preprocessing, feature engineering and association rules | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | Active |
+| [**Production-Grade End-to-End Big Data Pipeline**](https://github.com/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency) | Distributed computing, fault tolerance, automated validation, data quality checks and production monitoring across the full pipeline lifecycle | ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/engineer-a-production-grade-end-to-end-Big-Data-pipeline-that-demonstrates-advanced-proficiency) |
+| [**Web-to-Warehouse Product Intelligence Pipeline**](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline) | DEPI capstone: 35 permitted web/API sources → cleaning → fuzzy dedupe → 29-table Kimball warehouse → Airflow (33 tasks) → FastAPI (23 routers, 216 endpoints) → React 19 dashboard | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline) |
+| [**Spotify Trends Visualization**](https://github.com/Ahmedbakr78/data-visualization-SpotifyTrends) | Unified full-stack ecosystem for streaming analytics: API orchestration, ETL pipeline, data warehousing, interactive dashboards and AI integration | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/data-visualization-SpotifyTrends?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/data-visualization-SpotifyTrends) |
+| [**GitHub Repository Mining — Advanced Data Mining**](https://github.com/Ahmedbakr78/GitHub-Repository-Mining--Advanced-Data-Mining-Project) | Reproducible multi-stage data mining and NLP pipeline: repository data collection, preprocessing, feature engineering and association analysis | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/GitHub-Repository-Mining--Advanced-Data-Mining-Project?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/GitHub-Repository-Mining--Advanced-Data-Mining-Project) |
+| [**GitHub Ecosystem Mining App**](https://github.com/Ahmedbakr78/GitHub-ecosystem-mining-app) | Web mining and repository data collection with data preprocessing, feature engineering and association rules | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/GitHub-ecosystem-mining-app?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/GitHub-ecosystem-mining-app) |
 
 ---
 
@@ -314,13 +506,13 @@ timeline
 
 | Repository | Description | Tech | Activity |
 |---|---|---|---|
-| [**MIZAN — Egyptian Arabic Legal Assistant**](https://ahmed-abo-bakr.pages.dev/projects) | NLP system for Egyptian Arabic legal documents with Retrieval-Augmented Generation, Gradio interface and complex legal terminology handling | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square) ![RAG](https://img.shields.io/badge/-RAG-14b8a6?style=flat-square) | Featured |
-| [**5-A Nevai Search Engine**](https://github.com/Ahmedbakr78/5-A-Nevai-Search-Engine) | Privacy-focused AI-powered multi-source search engine (SPA) with enterprise-grade security, Chrome extension and RESTful API | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square) | 1 fork |
-| [**House Price Prediction and Customer Segmentation**](https://github.com/Ahmedbakr78/House-Price-Prediction-Customer-Segmentation) | Dual ML workflows: regression with advanced preprocessing and state-of-the-art algorithms, plus customer segmentation | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-189AB4?style=flat-square) | 1 star · 1 fork |
-| [**Automated Multi-Modal X-Ray Fracture and Crack Reporting**](https://github.com/Ahmedbakr78/Automated-Multi-Modal-X-Ray-Fracture-Crack-Reporting-System) | Computer-vision medical system: detects and classifies bone fractures from X-ray images with automated reporting | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![CV](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square) ![Healthcare](https://img.shields.io/badge/-Healthcare-22c55e?style=flat-square) | 1 star · 1 fork |
-| [**MR — Movie Analytics Dashboard (Cinematics)**](https://github.com/Ahmedbakr78/MR---Movie-Analytics-Dashboard-Cinematics-Dashboard-) | Web-based film-industry analytics platform: EDA, trend visualization, statistical modeling and box-office prediction | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Analytics](https://img.shields.io/badge/-Analytics-4c8dff?style=flat-square) | 1 star · 1 fork |
-| [**5-A Student Management System**](https://github.com/Ahmedbakr78/5-A-Student-Management-System) | AI-powered student management and search platform using FastAPI and React with predictive analytics | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | Active |
-| [**Student Management System — Modular Architecture**](https://github.com/Ahmedbakr78/Student-Management-System-was-engineered-with-distinct) | Engineered with distinct, measurable objectives to overcome common limitations in monolithic educational software | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | Active |
+| [**MIZAN — Egyptian Arabic Legal Assistant**](https://ahmed-abo-bakr.pages.dev/projects) | NLP system for Egyptian Arabic legal documents with Retrieval-Augmented Generation, Gradio interface and complex legal terminology handling | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square) ![RAG](https://img.shields.io/badge/-RAG-14b8a6?style=flat-square) | Featured on portfolio |
+| [**5-A Nevai Search Engine**](https://github.com/Ahmedbakr78/5-A-Nevai-Search-Engine) | Privacy-focused AI-powered multi-source search engine (SPA) with enterprise-grade security, Chrome extension and RESTful API | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI-FF6F00?style=flat-square) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/5-A-Nevai-Search-Engine?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/5-A-Nevai-Search-Engine) |
+| [**House Price Prediction and Customer Segmentation**](https://github.com/Ahmedbakr78/House-Price-Prediction-Customer-Segmentation) | Dual ML workflows: regression with advanced preprocessing and state-of-the-art algorithms, plus customer segmentation | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-189AB4?style=flat-square) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/House-Price-Prediction-Customer-Segmentation?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/House-Price-Prediction-Customer-Segmentation) |
+| [**Automated Multi-Modal X-Ray Fracture and Crack Reporting**](https://github.com/Ahmedbakr78/Automated-Multi-Modal-X-Ray-Fracture-Crack-Reporting-System) | Computer-vision medical system: detects and classifies bone fractures from X-ray images with automated reporting | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![CV](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square) ![Healthcare](https://img.shields.io/badge/-Healthcare-22c55e?style=flat-square) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/Automated-Multi-Modal-X-Ray-Fracture-Crack-Reporting-System?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/Automated-Multi-Modal-X-Ray-Fracture-Crack-Reporting-System) |
+| [**MR — Movie Analytics Dashboard (Cinematics)**](https://github.com/Ahmedbakr78/MR---Movie-Analytics-Dashboard-Cinematics-Dashboard-) | Web-based film-industry analytics platform: EDA, trend visualization, statistical modeling and box-office prediction | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Analytics](https://img.shields.io/badge/-Analytics-4c8dff?style=flat-square) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/MR---Movie-Analytics-Dashboard-Cinematics-Dashboard-?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/MR---Movie-Analytics-Dashboard-Cinematics-Dashboard-) |
+| [**5-A Student Management System**](https://github.com/Ahmedbakr78/5-A-Student-Management-System) | AI-powered student management and search platform using FastAPI and React with predictive analytics | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/5-A-Student-Management-System?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/5-A-Student-Management-System) |
+| [**Student Management System — Modular Architecture**](https://github.com/Ahmedbakr78/Student-Management-System-was-engineered-with-distinct) | Engineered with distinct, measurable objectives to overcome common limitations in monolithic educational software | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/Student-Management-System-was-engineered-with-distinct?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/Student-Management-System-was-engineered-with-distinct) |
 
 ---
 
@@ -328,8 +520,8 @@ timeline
 
 | Repository | Description | Tech | Activity |
 |---|---|---|---|
-| [**TourMate**](https://github.com/Ahmedbakr78/TourMate) | Full MEAN-stack smart tourism platform (Tourist, Driver, Guide, Admin): Angular 17 standalone, Express + MongoDB, JWT/bcrypt auth, polling-based live tracking, Overpass/OSRM integration, Leaflet maps, i18n EN/AR + RTL, Zara/Zen monochrome UI, Swagger docs, Docker and CI ready | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | Active |
-| [**Tour**](https://github.com/Ahmedbakr78/Tour) | Smart tourism platform — live tracking, real-time maps, multi-role dashboards and bilingual interface | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | 1 star · 1 fork |
+| [**TourMate**](https://github.com/Ahmedbakr78/TourMate) | Full MEAN-stack smart tourism platform (Tourist, Driver, Guide, Admin): Angular 17 standalone, Express + MongoDB, JWT/bcrypt auth, polling-based live tracking, Overpass/OSRM integration, Leaflet maps, i18n EN/AR + RTL, Zara/Zen monochrome UI, Swagger docs, Docker and CI ready | ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/TourMate?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/TourMate) |
+| [**Tour**](https://github.com/Ahmedbakr78/Tour) | Smart tourism platform — live tracking, real-time maps, multi-role dashboards and bilingual interface | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/Tour?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/Tour) |
 
 ---
 
@@ -337,8 +529,8 @@ timeline
 
 | Repository | Description | Tech | Activity |
 |---|---|---|---|
-| [**Secure Student Records Management System (SRMS)**](https://github.com/Ahmedbakr78/Data-Security-Secure-Student-Records-Management-System-SRMS-) | Database application enforcing five core database security models: RBAC, multilevel security, AES-256 encryption and inference control | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/-Security-critical?style=flat-square) | 1 star · 1 fork |
-| [**Blockchain-Powered Voting System**](https://github.com/Ahmedbakr78/secure-blockchain-powered-voting-system-featuring-a-graphical-interface-background-data-auditing) | Decentralized voting with graphical interface, cryptographic security for voter anonymity and background data auditing | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square) | Active |
+| [**Secure Student Records Management System (SRMS)**](https://github.com/Ahmedbakr78/Data-Security-Secure-Student-Records-Management-System-SRMS-) | Database application enforcing five core database security models: RBAC, multilevel security, AES-256 encryption and inference control | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/-Security-critical?style=flat-square) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/Data-Security-Secure-Student-Records-Management-System-SRMS-?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/Data-Security-Secure-Student-Records-Management-System-SRMS-) |
+| [**Blockchain-Powered Voting System**](https://github.com/Ahmedbakr78/secure-blockchain-powered-voting-system-featuring-a-graphical-interface-background-data-auditing) | Decentralized voting with graphical interface, cryptographic security for voter anonymity and background data auditing | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Blockchain](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/secure-blockchain-powered-voting-system-featuring-a-graphical-interface-background-data-auditing?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/secure-blockchain-powered-voting-system-featuring-a-graphical-interface-background-data-auditing) |
 
 ---
 
@@ -346,7 +538,7 @@ timeline
 
 | Repository | Description | Tech | Activity |
 |---|---|---|---|
-| [**University Exam Management System (Oracle)**](https://github.com/Ahmedbakr78/University-Exam-Management-System-Oracle) | Multi-user Oracle PL/SQL solution with strict separation of duties, robust business logic, exam scheduling, enrollment, grading and reporting | ![Oracle](https://img.shields.io/badge/-Oracle%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white) | 1 star · 1 fork |
+| [**University Exam Management System (Oracle)**](https://github.com/Ahmedbakr78/University-Exam-Management-System-Oracle) | Multi-user Oracle PL/SQL solution with strict separation of duties, robust business logic, exam scheduling, enrollment, grading and reporting | ![Oracle](https://img.shields.io/badge/-Oracle%20PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/University-Exam-Management-System-Oracle?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/University-Exam-Management-System-Oracle) |
 
 ---
 
@@ -378,18 +570,52 @@ graph TB
     PRIVACY["Data stays where users decide"] --> PROTOCOL
 ```
 
+```mermaid
+classDiagram
+    class SearchEngine {
+        +privacyFirst()
+        +query(text)
+        +rank(results)
+    }
+    class OfficeSuite {
+        +docs()
+        +sheets()
+        +whiteboards()
+    }
+    class IdentityLayer {
+        +federatedLogin()
+        +noCentralAuthority()
+    }
+    class OpenSDK {
+        +buildExtensions()
+    }
+    class AIAgentLayer {
+        +assist()
+        +automate()
+    }
+    class BridgeHub {
+        +matrixCSApi()
+        +presenceSync()
+        +readStateRelay()
+    }
+    SearchEngine --> IdentityLayer
+    OfficeSuite --> OpenSDK
+    AIAgentLayer --> OpenSDK
+    BridgeHub --> IdentityLayer
+```
+
 ### Heros Browser Suite
 
 Six Chromium (MV3) extensions, one design language: free, private, unlimited, 100% local.
 
-| Repository | Description | Website |
-|---|---|---|
-| [**Heros PDF**](https://github.com/Ahmedbakr78/Heros_PDF) | PDF viewer and editor studio — annotate, merge, split, search, watermark | [Site](https://ahmedbakr78.github.io/Heros_PDF/) |
-| [**Heros Markdown**](https://github.com/Ahmedbakr78/heros-markdown) | Markdown studio — offline KaTeX math, every Mermaid diagram, RTL support | [Site](https://ahmedbakr78.github.io/heros-markdown/) |
-| [**Heros NoteBook**](https://github.com/Ahmedbakr78/Heros_Jupter) | `.ipynb` viewer with a real Python runner via Pyodide WebAssembly | [Site](https://ahmedbakr78.github.io/Heros_Jupter/) |
-| [**Heros Todo**](https://github.com/Ahmedbakr78/Heros_Todo) | Markdown, PDF and LaTeX panel studio with workspaces and clickable tasks | [Site](https://ahmedbakr78.github.io/Heros_Todo/) |
-| [**Heros Player**](https://github.com/Ahmedbakr78/Heros_Music_Player) | Remote control for YouTube Music, YouTube and Spotify tabs | [Site](https://ahmedbakr78.github.io/Heros_Music_Player/) |
-| [**markClipper**](https://github.com/Ahmedbakr78/Heros_Note) | Web clipper and Photo Lab — articles, selections and galleries to Markdown | [Site](https://ahmedbakr78.github.io/Heros_Note/) |
+| Repository | Description | Website | Activity |
+|---|---|---|---|
+| [**Heros PDF**](https://github.com/Ahmedbakr78/Heros_PDF) | PDF viewer and editor studio — annotate, merge, split, search, watermark | [Site](https://ahmedbakr78.github.io/Heros_PDF/) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/Heros_PDF?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/Heros_PDF) |
+| [**Heros Markdown**](https://github.com/Ahmedbakr78/heros-markdown) | Markdown studio — offline KaTeX math, every Mermaid diagram, RTL support | [Site](https://ahmedbakr78.github.io/heros-markdown/) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/heros-markdown?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/heros-markdown) |
+| [**Heros NoteBook**](https://github.com/Ahmedbakr78/Heros_Jupter) | `.ipynb` viewer with a real Python runner via Pyodide WebAssembly | [Site](https://ahmedbakr78.github.io/Heros_Jupter/) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/Heros_Jupter?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/Heros_Jupter) |
+| [**Heros Todo**](https://github.com/Ahmedbakr78/Heros_Todo) | Markdown, PDF and LaTeX panel studio with workspaces and clickable tasks | [Site](https://ahmedbakr78.github.io/Heros_Todo/) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/Heros_Todo?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/Heros_Todo) |
+| [**Heros Player**](https://github.com/Ahmedbakr78/Heros_Music_Player) | Remote control for YouTube Music, YouTube and Spotify tabs | [Site](https://ahmedbakr78.github.io/Heros_Music_Player/) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/Heros_Music_Player?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/Heros_Music_Player) |
+| [**markClipper**](https://github.com/Ahmedbakr78/Heros_Note) | Web clipper and Photo Lab — articles, selections and galleries to Markdown | [Site](https://ahmedbakr78.github.io/Heros_Note/) | [![Last Commit](https://img.shields.io/github/last-commit/Ahmedbakr78/Heros_Note?style=flat-square&color=14B8A6&label=Commit)](https://github.com/Ahmedbakr78/Heros_Note) |
 
 ---
 
@@ -565,6 +791,17 @@ Comprehensive computer science education covering data structures, algorithms, d
 
 26 certifications from leading institutions — Microsoft, Google, IBM, University of Oxford, University of Sydney, University of Michigan, Duke University, AWS, UNICEF, Udacity and Saylor University. 73 total across 8 domains.
 
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white)
+![Oxford](https://img.shields.io/badge/University%20of%20Oxford-002147?style=for-the-badge&logo=oxford&logoColor=white)
+![Duke](https://img.shields.io/badge/Duke%20University-012169?style=for-the-badge&logoColor=white)
+![UNICEF](https://img.shields.io/badge/UNICEF-1CABE2?style=for-the-badge&logo=unicef&logoColor=white)
+![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)
+
 | Certification | Issuer | Date | Credential ID |
 |---|---|---|---|
 | DevOps Essentials | Coursera | Oct 2026 | Credly Badge |
@@ -595,6 +832,15 @@ Comprehensive computer science education covering data structures, algorithms, d
 ---
 
 ## Achievements
+
+### GitHub
+
+| Achievement | Unlocked By |
+|---|---|
+| ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Unlocked-4C8DFF?style=for-the-badge&logo=github&logoColor=white) | Merged pull requests across projects |
+| ![Quickdraw](https://img.shields.io/badge/Quickdraw-Unlocked-EA4335?style=for-the-badge&logo=github&logoColor=white) | Closed an issue or PR within minutes of opening |
+
+### Professional
 
 - **Top Performer** — AI & ML Track, Route Academy
 - **73 certifications** across 8 domains — Oxford, Google, AWS, UN, IBM and Huawei
@@ -629,7 +875,48 @@ Comprehensive computer science education covering data structures, algorithms, d
 | Pull Requests | 93% |
 | Code Review | 7% |
 
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline,Ahmedbakr78/TourMate,Ahmedbakr78/Tour,Ahmedbakr78/data-visualization-SpotifyTrends&type=Date)](https://star-history.com/#Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline&Ahmedbakr78/TourMate&Ahmedbakr78/Tour&Ahmedbakr78/data-visualization-SpotifyTrends&Date)
+
 </div>
+
+---
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+- Loading latest public activity…
+<!--END_SECTION:activity-->
+
+---
+
+## Beyond the Code
+
+- Founded **NEVAI** — a federated workspace ecosystem with a 25-bridge messaging federation
+- Built and shipped **six browser extensions** in the Heros suite, each with its own website
+- Led teams across **three countries** before turning 22
+- Passed the **JPMorganChase Software Engineering Simulation** on Forage
+- 100% score in the **NTI MEAN-Stack training**
+
+---
+
+## Roadmap
+
+```mermaid
+gantt
+    title Roadmap 2026 to 2027
+    dateFormat YYYY-MM-DD
+    axisFormat %Y-%m
+    section Platform
+    NEVAI federation growth :active, 2026-10-01, 2027-06-30
+    section Heros
+    Firefox and Edge ports :2026-11-01, 2027-02-28
+    Store publishing :2026-12-01, 2027-03-31
+    section Skills
+    Databricks and Delta Lake :2026-10-01, 2027-03-31
+    Streaming at scale with Flink :2027-01-01, 2027-06-30
+```
 
 ---
 
@@ -639,6 +926,27 @@ Comprehensive computer science education covering data structures, algorithms, d
 |---|---|
 | Arabic | Native |
 | English | Professional |
+
+---
+
+## Ask Me About
+
+![Big Data Pipelines](https://img.shields.io/badge/-Big%20Data%20Pipelines-4C8DFF?style=flat-square)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square)
+![Data Warehousing](https://img.shields.io/badge/-Data%20Warehousing-8A2BE2?style=flat-square)
+![Cloud Architecture](https://img.shields.io/badge/-Cloud%20Architecture-14B8A6?style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square)
+![LLMs and NLP](https://img.shields.io/badge/-LLMs%20and%20NLP-FF6F00?style=flat-square)
+![LLMOps](https://img.shields.io/badge/-LLMOps-8A2BE2?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square)
+![Database Security](https://img.shields.io/badge/-Database%20Security-critical?style=flat-square)
+![Browser Extensions](https://img.shields.io/badge/-Browser%20Extensions-4285F4?style=flat-square)
+![NEVAI](https://img.shields.io/badge/-NEVAI-4C8DFF?style=flat-square)
+![Full-Stack](https://img.shields.io/badge/-Full--Stack-3178C6?style=flat-square)
 
 ---
 
@@ -655,6 +963,17 @@ Looking for expertise in **Big Data Engineering**, **Cloud Architecture** or **A
 <br/>
 
 [**Home**](https://ahmed-abo-bakr.pages.dev/) &nbsp;·&nbsp; [**Blog**](https://ahmed-abo-bakr.pages.dev/blog) &nbsp;·&nbsp; [**Projects**](https://ahmed-abo-bakr.pages.dev/projects) &nbsp;·&nbsp; [**Resume**](https://ahmed-abo-bakr.pages.dev/resume) &nbsp;·&nbsp; [**Contact**](https://ahmed-abo-bakr.pages.dev/contact)
+
+<br/>
+
+```
+ █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗ 
+██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗
+███████║███████║██╔████╔██║█████╗  ██║  ██║
+██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
+██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
+```
 
 <br/>
 
