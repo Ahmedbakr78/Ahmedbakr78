@@ -886,7 +886,6 @@ Comprehensive computer science education covering data structures, algorithms, d
 - Published release [v1.10.0 — More sources, team API, smarter robots](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline/releases/tag/v1.10.0) in [Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline)
 - Published release [v2.1.0 — Wave 3: the max-out release](https://github.com/Ahmedbakr78/Heros_Todo/releases/tag/v2.1.0) in [Ahmedbakr78/Heros_Todo](https://github.com/Ahmedbakr78/Heros_Todo)
 - Published release [v1.2.0 — 110 free tools, study studio complete](https://github.com/Ahmedbakr78/heros-markdown/releases/tag/v1.2.0) in [Ahmedbakr78/heros-markdown](https://github.com/Ahmedbakr78/heros-markdown)
-- Published release [v2.3.2 — Ultra-Round Studio](https://github.com/Ahmedbakr78/Heros_PDF/releases/tag/v2.3.2) in [Ahmedbakr78/Heros_PDF](https://github.com/Ahmedbakr78/Heros_PDF)
 <!--END_SECTION:activity-->
 
 ---
