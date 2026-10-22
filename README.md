@@ -883,7 +883,6 @@ Comprehensive computer science education covering data structures, algorithms, d
 - Published release [v1.1.0 — Photo Lab max power](https://github.com/Ahmedbakr78/Heros_Note/releases/tag/v1.1.0) in [Ahmedbakr78/Heros_Note](https://github.com/Ahmedbakr78/Heros_Note)
 - Published release [v1.1.0 — MAX update: 160 tools, builder studio, data power](https://github.com/Ahmedbakr78/Heros_Jupter/releases/tag/v1.1.0) in [Ahmedbakr78/Heros_Jupter](https://github.com/Ahmedbakr78/Heros_Jupter)
 - Published release [v1.9.0 — Source catalog + team ownership](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline/releases/tag/v1.9.0) in [Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline)
-- Published release [v1.10.0 — More sources, team API, smarter robots](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline/releases/tag/v1.10.0) in [Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline)
 <!--END_SECTION:activity-->
 
 ---
