@@ -879,6 +879,7 @@ Comprehensive computer science education covering data structures, algorithms, d
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+- Published release [v2.0.0 — VisionOS Ergonomics, Solidified Opacity & 28+ Unlimited Features](https://github.com/Ahmedbakr78/Portfolio/releases/tag/v2.0.0) in [Ahmedbakr78/Portfolio](https://github.com/Ahmedbakr78/Portfolio)
 - Published release [Heros Suite v1.0.0 — The Hub](https://github.com/Ahmedbakr78/Heros_Suite/releases/tag/v1.0.0) in [Ahmedbakr78/Heros_Suite](https://github.com/Ahmedbakr78/Heros_Suite)
 <!--END_SECTION:activity-->
 
