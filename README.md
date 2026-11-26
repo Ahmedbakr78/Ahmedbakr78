@@ -879,7 +879,7 @@ Comprehensive computer science education covering data structures, algorithms, d
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-- Published release [v1.0.0 — Technical Operations Portfolio](https://github.com/Ahmedbakr78/ahmed-khaled-technical-operations-portfolio/releases/tag/v1.0.0) in [Ahmedbakr78/ahmed-khaled-technical-operations-portfolio](https://github.com/Ahmedbakr78/ahmed-khaled-technical-operations-portfolio)
+- No public activity yet.
 <!--END_SECTION:activity-->
 
 ---
