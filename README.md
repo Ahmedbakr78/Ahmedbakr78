@@ -879,7 +879,9 @@ Comprehensive computer science education covering data structures, algorithms, d
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-- No public activity yet.
+- Published release [v1.14.0 — Full DEPI Capstone, Live Pages & 128-Diagram Suite](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline/releases/tag/v1.14.0) in [Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline)
+- Published release [v1.13.1](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline/releases/tag/v1.13.1) in [Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline)
+- Published release [v1.13.0](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline/releases/tag/v1.13.0) in [Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline](https://github.com/Ahmedbakr78/Web-to-Warehouse-Product-Intelligence-Pipeline)
 <!--END_SECTION:activity-->
 
 ---
